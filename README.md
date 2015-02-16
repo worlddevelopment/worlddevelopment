@@ -8,6 +8,11 @@ Development Mission Statement:
 ---
 *For the goals we bake, the best and simplest (yet ethical) solutions we take.*
 
+### More development guidelines:
+
+* Respect artistic freedom. Forbidding is no solution. (As learned from history during Nazi-Germany period of 1933..1945 where lots of things were forbidden, which potentially is difficult to control, because who decides what is forbidden may be blurry. Someone might have the idea to forbid being Jew. You get the idea. Law is no easier than technology, its purpose should be to clarify why what is law and to prevent laws that contradict basic rights/other ethical laws.)
+* Lead by example, do not discredit work of others. Don't remove/delete work of others without prior bidirectional communication and if then give the reason.
+Especially important for deleting development branches despite all the work still residing in local repositories due to Git's distributive nature. Do not offend others, skip/ignore instead.*
 
 Goals
 ---
