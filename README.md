@@ -3,6 +3,10 @@ World development efforts to actively drive for a better world.
 
 Neither the following list of goals nor the statement/formulation of any of the goals itself ever is meant to be complete. Nothing is perfect.
 
+Safety Warning
+---
+Whenever machines are operated (e.g. to manufacture or postprocess parts) always pay attention to your safety, i.e. don't rush, chat or get distracted in other ways while operating/servicing hazardous machines.
+
 
 Development Mission Statement:
 ---
