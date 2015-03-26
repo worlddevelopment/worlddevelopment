@@ -24,6 +24,7 @@ Goals
 *Note: Any project may define additional goals but must not deny, defy or turn the positive attitude of any of the following goals to negative.*
 
 * Reason, not power rules. Give reasons at all times. An argument/hypothesis without supporting reason is not helpful/valid. Prefer reasoning and discurs over overrule by force, power, money or similar.
+* Philosophical questions asking for the why and how something shall be helpful for the world must be asked, and the answers then must be critically questioned again, until all potential contradictions are ruled out - or a contradiction to an answer is found.
 * An environmental friendly world.
 * Fair. Neither exploit nor abuse.
 * Respect all positive attitude ethics.
@@ -31,7 +32,7 @@ Goals
 * Respect human and other basic or substantial rights like:
 * Reciprocity: "Do as you would be done by. Though if you want harmful things to be done to you, then this contradicts other basic laws like human rights, thus don't do such e.g. harmful things to others!"
 * Respect all religions. Take neutral stance. (Philosophers' view.)
-* Respect law. *If a law contradicts or endangers basic rights or any of the listed goals of worlddevelopment, then go the philosopher's route and discuss the topic with a mix of people from different societies, e.g. not only friends but also scientists, lawyers, ... maybe there are just misconceptions. Else increase public pressure by starting a public poll and campaigns.*
+* Respect law. *If a law has been created based on interests of individuals or contradicts or endangers basic rights or any of the listed goals of worlddevelopment, then go the philosopher's route and discuss the topic with a mix of people from different societies, e.g. not only friends but also scientists, lawyers, ... maybe there are just misconceptions. Else increase public pressure by starting a public poll and peaceful campaigns.*
 * Anti force, cruelty, torture.
 * Respect gender equality.
 * Improve living standard of the world (not anti rich-poor scissor directly; instead not further rich-poor scissor and active raise living standard of the poor).
