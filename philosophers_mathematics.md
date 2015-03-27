@@ -1,12 +1,37 @@
-Asking philosophical questions.
----
-
-How does what I do help the world? (Pay attention to not interpret this egoistically, it is not only about *your* world.)
+Philosophical questioning
 ===
 
-Example:
+How does what I do help the world?
 ---
+(Pay attention to not interpret this egoistically, it is not only about *your* world.)
+
+
+Example:
+===
+
+Suicide
+---
+An individual wants to commit suicide. No matter the reasons, the following questions must be asked:
+"How does it help if I die or do harm to me?"
+
+"Does it help the world?"
+
+The person thinks:
+"Well it helps, because it's one depressive person less."
+
+This is a misconception, because every suicide or harming of oneself or other people creates more depressions for other people.
+
+So no matter the reasons, suicide is a contradiction in itself and certainly not helpful for the world.
+
+Putting this energy and the remainder of the life into making this world a better place is much better spent.
+The person now thinks:
+
+"The world has enough problems to be solved, like no food, no water, war, physical pain and other sufferings. Even my dead alone will create more problems and (political, legal or other) complications. And it's not about me anyway, it's about a better world. Else this world never will find peace and harmony for everyone. You have the power to break this never-ending vicious circle."
+
+
+
 A man suppresses a woman.
+---
 
 The man asks himself:
 "How does it help the world?"
@@ -52,5 +77,9 @@ After thinking more about it, the man starts to like the thought that maybe some
 
 He concludes:
 "Instead of influencing other people's life, maybe even destroying it, even if accidentally, how could I really help making this world a better place, preventing conflict and suffering?"
+
+
+
+
 
 
