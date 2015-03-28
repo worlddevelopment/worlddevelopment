@@ -14,6 +14,7 @@ Current focus/effort for the fulfillment of an excerpt of the worlddevelopment g
 * Increase education:
   * 90%: Teacher project (portable online, offline exercise, sheet, exam and reference solution sharing system),
   * .2%: 0BC Time Machine (educational history teaching simulation of the world starting in stone age and before to learn about formation of the planet(s) and life).
+  * High efficiency language learning apparatus that trains you by the way (e.g. robot, transport vehicle or other mobile tech).
 
 * Toolset/Toolchains:
   * 90%, mechanical design tools (blender + extension development).
