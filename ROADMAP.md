@@ -19,7 +19,7 @@ Current focus/effort for the fulfillment of an excerpt of the worlddevelopment g
 * Toolset/Toolchains:
   * 90%, mechanical design tools (blender + extension development).
   * 90%, computer aided manufacturing (blender + extensions)
-  * 50%, mechanics documentation tools (blender + extensions)
+  * 75%, mechanics documentation tools (blender + extensions)
   * 1%, interconnectable engineering toolbox, still need to evaluate Octave - or how quickly OpenFOAM source code can be studied to add all the missing math there. Refs #1.
 
 
