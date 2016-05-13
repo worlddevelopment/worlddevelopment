@@ -52,6 +52,9 @@ If contents are not opting out of the licensing and copyright things,  then the 
 NC (non-commercial) supplement that restricted the use has been removed because it only works in theory, in practice the supplement simply would be ignored and the "copy"/"robbery" be hidden as company secret or similar.
 The Non-commercialization restriction often prevents companies openly stating that they use/rely/build-upon an open source project because then it'd be clear that they'd not be allowed to legally use it in their commercial projects and contribute improvements back "upstream". Instead it may be used illegally as described above.
 
+<a href="http://questioncopyright.org"><img src="http://questioncopyright.org/cm/images/banner/qco-banner-black-150x63.png" alt="questioncopyright.org logo" align="left" /></a>
+
+
 ####Just as an example, for more information check the license wording:
 *Share-alike* means that e.g. built-upon sources must be provided at latest on release.
 
