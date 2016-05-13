@@ -5,7 +5,7 @@ Neither the following list of goals nor the statement/formulation of any of the 
 
 Safety Warning
 ---
-Whenever machines are operated (e.g. to manufacture or postprocess parts) always pay attention to your safety, i.e. don't rush, chat or get distracted in other ways while operating/servicing hazardous machines.
+Whenever machines are operated (e.g. to manufacture or postprocess parts) always pay attention to your safety, i.e. don't rush, chat or get distracted in other ways while operating/servicing hazardous machines or conducting potentially dangerous operations.
 
 
 Development Mission Statement:
