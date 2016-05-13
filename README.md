@@ -52,8 +52,8 @@ License of repository contents directly 'owned'/maintained by worlddevelopment i
 NC (non-commercial) supplement that restricted the use has been removed because it only works in theory, in practice the supplement simply would be ignored and the "copy"/"robbery" be hidden as company secret or similar.
 The Non-commercialization restriction often prevents companies openly stating that they use/rely/build-upon an open source project because then it'd be clear that they'd not be allowed to legally use it in their commercial projects and contribute improvements back "upstream". Instead it may be used illegally as described above.
 
-####Just as an example, for more information check the license wording: 
-*Share-alike* means that e.g. built-upon sources must be provided at latest on release. 
+####Just as an example, for more information check the license wording:
+*Share-alike* means that e.g. built-upon sources must be provided at latest on release.
 
 *Non-commercial* doesn't mean that e.g. poor areas, where e.g. ecological energy technology is contructed, aren't allowed to refund material + installation + travel cost or similar.
 
@@ -64,7 +64,7 @@ About world development tools/toolchains:
 ---
 Contrary to the contents of many repositories, the tools, toolchains, ... that world development uses or develops, at times neither releases/binaries, nor development files/machines/sources are provided.
 
-This to not only promote open source (by optionally giving the tool/toolchain development files/machines/sources away for finished and published open source projects), but to prevent all actions 
+This to not only promote open source (by optionally giving the tool/toolchain development files/machines/sources away for finished and published open source projects), but to prevent all actions
 like abuse of these tools/toolchains either through commercialisation through third-parties that not feel connected to worldevelopment goals.
 
 Free, not open source, tools are tolerated/may be used for world development if compatible to worlddevelopment goals.
