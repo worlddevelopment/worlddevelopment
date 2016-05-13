@@ -45,10 +45,10 @@ Goals
 * Share alike if positive effect on the world. Open technology, for a better world. Stop reinventing the wheel.
 
 
-License
+License | Unlicense
 ---
-License of repository contents directly 'owned'/maintained by worlddevelopment if not specified:
-*CC-BY-SA* (Creative Commons+Share Alike)
+If contents are not opting out of the licensing and copyright things,  then the License of repository contents directly 'owned'/maintained by worlddevelopment if not specified is:
+*CC-BY-SA* (Creative Commons Share Alike)
 NC (non-commercial) supplement that restricted the use has been removed because it only works in theory, in practice the supplement simply would be ignored and the "copy"/"robbery" be hidden as company secret or similar.
 The Non-commercialization restriction often prevents companies openly stating that they use/rely/build-upon an open source project because then it'd be clear that they'd not be allowed to legally use it in their commercial projects and contribute improvements back "upstream". Instead it may be used illegally as described above.
 
