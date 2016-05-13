@@ -45,7 +45,7 @@ Goals
 * Share alike if positive effect on the world. Open technology, for a better world. Stop reinventing the wheel.
 
 
-License | Unlicense
+License (copyright) | Unlicense (public domain)
 ---
 If contents are not opting out of the licensing and copyright things,  then the License of repository contents directly 'owned'/maintained by worlddevelopment if not specified is:
 *CC-BY-SA* (Creative Commons Share Alike)
@@ -56,7 +56,7 @@ The Non-commercialization restriction often prevents companies openly stating th
 <a href="http://unlicense.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="wikimedia commons say no to copyright logo" height="63" /></a>
 
 
-####Just as an example, for more information check the license wording:
+####Just as an example, for more information check the license wording / public domain legal definition of the corresponding country:
 *Share-alike* means that e.g. built-upon sources must be provided at latest on release.
 
 *Non-commercial* doesn't mean that e.g. poor areas, where e.g. ecological energy technology is constructed, aren't allowed to refund material + installation + travel cost or similar as well as is not meant that charging for services (like customization as long as sharing or helping with maintenance while still pointing people to the sources that provide manuals) is not allowed.
