@@ -53,6 +53,7 @@ NC (non-commercial) supplement that restricted the use has been removed because 
 The Non-commercialization restriction often prevents companies openly stating that they use/rely/build-upon an open source project because then it'd be clear that they'd not be allowed to legally use it in their commercial projects and contribute improvements back "upstream". Instead it may be used illegally as described above.
 
 <a href="http://questioncopyright.org"><img src="http://questioncopyright.org/cm/images/banner/qco-banner-black-150x63.png" alt="questioncopyright.org logo" align="left" /></a>
+<a href="http://unlicense.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="wikimedia commons say no to copyright logo" height="63" /></a>
 
 
 ####Just as an example, for more information check the license wording:
