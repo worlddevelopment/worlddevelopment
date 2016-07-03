@@ -1,6 +1,7 @@
 World development efforts to actively drive for a better world.
 ===
 
+<img src="./worlddevelopment.png" align="left" alt=""/>
 Neither the following list of goals nor the statement/formulation of any of the goals itself ever is meant to be complete. Nothing is perfect.
 
 Safety Warning
