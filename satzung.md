@@ -3,9 +3,10 @@ Satzung
 ===
 
 ### 0000 Definitionen
-1. Der englische Begriff "worlddevelopment" bezeichne nachstehend Weltentwicklung. Da die Aktivitäten des Vereins nicht auf eine Gruppenzugehörigkeit beschränkt ist, wird der Englische Begriff verwendet, da Englisch-Kenntnis zum Zeitpunkt der Gründung den Größtteil der Weltbevölkerung umfasst.
+1. Der englische Begriff "worlddevelopment" bezeichne nachstehend Weltentwicklung.Da die Aktivitäten des Vereins nicht auf eine Gruppenzugehörigkeit beschränkt ist, wird der Englische Begriff verwendet, da Englisch-Kenntnis zum Zeitpunkt der Gründung den Größtteil der Weltbevölkerung umfasst.
 1. Der Operator =: beziehungsweise := definiere verwendete Abkürzungen, wobei der Doppelpunkt ":" auf der Seite der Abkürzung stehe.
 1. Die Reihenfolge der Überschriften, Paragraphen, Punkte oder Sätze ist flexibel so definiert, dass spätere Einfügung ohne Verschiebung dieser untereinander weitestgehend möglich ist, wodurch die konsistente Referenzierung zeitunabhängig vereinfacht wird.
+1. Pull request: Antrag auf Wieder-Einmischung von gemachten Änderungen nach Gabelung eines Projekts unter Versionskontrolle.
 
 
 
@@ -62,11 +63,11 @@ Satzung
 
 1. Die Mitglieder erhalten in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins.
 
-1. Im Rahmen des § 45 Bürgerliches Gesetz Buch (=: BGB) fällt Vereinsvermögen bei Auflösung oder Aufhebung des Vereins an die ursprünglichen Besitzer, beziehungsweise deren rechtliche Nachfolger zurück, insofern das Vermögen freiheitlich vermacht und noch nicht verwendet wurde.
-
 1. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-1. Die Mitglieder des Vorstands können für ihren Arbeits- oder Zeitaufwand pauschale oder aufwandsbezogene Vergütungen erhalten, zum Beispiel die gesetzlich zulässige Ehrenamtspauschale in Höhe von € 500,00 per Jahr, wobei der Umfang der Vergütungen nicht unangemessen hoch sein darf, also den Aufwand nicht überschreiten darf. Maßstab der Angemessenheit ist die gemeinnützige Zielsetzung des Vereins. Vergütungen sind automatisch auszusetzen, sollte der Verein keine positive Bilanz erzielen.
+1. Die Mitglieder des Vorstands können für ihren Arbeits- oder Zeitaufwand pauschale oder aufwandsbezogene Vergütungen erhalten, zum Beispiel die gesetzlich zulässige Ehrenamtspauschale per Jahr, wobei der Umfang der Vergütungen nicht unangemessen hoch sein darf, also den Aufwand nicht überschreiten darf.
+1. Maßstab der Angemessenheit von Vergütungen und Aufwandsentschädigungen ist die gemeinnützige Zielsetzung des Vereins.
+1. Vergütungen, Aufwandsentschädigungen sind automatisch auszusetzen, sollte der Verein keine positive Bilanz erzielen, so dass der Verein sich durch einen rein ehrenamtlichen Charakter in Notsituationen selbst heile.
 
 
 
@@ -95,6 +96,7 @@ Satzung
 1. Über den schriftlichen Aufnahmeantrag entscheidet abschließend der Vorstand.
 1. Die Angabe einer gültigen elektronischen Mail-Adresse unter der der Anwärter direkt oder indirekt erreichbar ist, sei Pflicht.
 1. Als Alternative zur Angabe einer virtuellen oder physischen Adresse kann an Eides statt versichert werden, dass die Internetseiten, auf denen der Verein tätig ist oder die er betreibt, rechtzeitig fristgerecht auf Mitteilungen wie Einladungen zur Mitgliederversammlung geprüft werden.
+
 
 
 ### 0400 Beendigung der Mitgliedschaft
@@ -133,48 +135,57 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 ### 0700 Der Vorstand
-1. Der Vorstand im Sinne des § 26 BGB besteht aus den folgenden Funktionen, wobei stets jedes Vorstandsmitglied gleichwertig sei:
-  * Finanzverwalter "Schatzmeister" (Überblick Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, ...)
-  * Mitgliedschaftsbeauftragter "Tribun" (Überblick Mitglieder, Mitgliedschaften in anderen gemeinnützigen Organisationen, (Hilfs-)Aktionen in durch Dritte organisiertem Engagement, ...)
-  * Schriftgelehrter "Literat" (Überblick Dokumentation, Versionierung, Dokumente, Versammlungen, ...)
-  * Verwalter "Konsul"
-  * Verwalter "Konsul"
-Oder Keine!?
+1. Dem Vorstand obliegt die Führung der laufenden Geschäfte.
+1. Er hat insbesondere die Aufgabe bei allen Aktionen der aktiven Mitglieder mit Rat und Tat zu helfen.
+1. Er hat für das Erreichen der Ziele des Vereins in erster Linie zu sorgen, was jedoch nicht notwendigerweise bedeutet, dass es der Hauptverdienst des Vorstands war, falls Ziele erreicht werden.
+
+1. Der Vorstand im Sinne des § 26 Bürgerliches Gesetzbuch (=: BGB) besteht aus den folgenden Funktionen, wobei stets jedes Vorstandsmitglied gleichwertig sei:
+  * Entwicklungshelfer "Konsul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichkeitsarbeit, strategische Entwicklung des Vereins, ...)
+  * Entwicklungshelfer "Konsul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichungsarbeit, strategische Entwicklung des Vereins, ...)
 
 1. Der erweiterte, optionale Vorstand besteht aus:
-Nach geopolitischen Kontinenten unterteilten Zuständigkeiten:
-* Aussenbeauftragter "Antarktika"
-* Aussenbeauftragter "Afrika"
-* Aussenbeauftragter "Asien"
-* Aussenbeauftragter "Australien und Ozeanien"
-* Aussenbeauftragter "Europa"
-* Aussenbeauftragter "Nord-Amerika"
-* Aussenbeauftragter "Süd-Amerika"
+  * Mitgliedschaftsbeauftragter "Tribun" (Überblick Mitglieder, Mitgliedschaften in anderen gemeinnützigen Organisationen, (Hilfs-)Aktionen in durch Dritte organisiertem Engagement, ...)
+  * Schriftgelehrter "Literat" (Überblick Dokumentation, Versionierung, Dokumente, Versammlungen, ...)
 
-Oder nach Himmelsrichtungen referenziert zum Breiten-, Längengrad 0, 0, wobei die Grenzregionen überlappend von allen Zuständigkeiten abzudecken seien:
-* West
-* Nord
-* Ost
-* Süd
+  * Weiter nach geopolitischen Kontinenten unterteilten Zuständigkeiten:
+    * Aussenbeauftragter "Antarktika"
+    * Aussenbeauftragter "Afrika"
+    * Aussenbeauftragter "Asien"
+    * Aussenbeauftragter "Australien und Ozeanien"
+    * Aussenbeauftragter "Europa"
+    * Aussenbeauftragter "Nord-Amerika"
+    * Aussenbeauftragter "Süd-Amerika"
 
-1. Der Verein wird gerichtlich und außergerichtlich jeweils durch mindestens zwei Mitglieder des Vorstandes gemeinschaftlich vertreten.
+  Oder nach Himmelsrichtungen referenziert zum Breiten-, Längengrad 0, 0, wobei die Grenzregionen überlappend von allen Zuständigkeiten abzudecken seien:
+    * West
+    * Nord
+    * Ost
+    * Süd
 
-1. Die Vereinigung mehrerer Vorstandsämter in einer Person (Personalunion) ist zulässig.
+1. Der Verein wird gerichtlich und außergerichtlich jeweils durch mindestens ein Mitglied, jedoch bevorzugt zwei oder mehr Mitglieder, des Vorstands gemeinschaftlich vertreten.
+
+1. Die Vereinigung mehrerer Vorstandsämter in einer Person (Personalunion) ist unzulässig.
 
 
 
 ### 0800 Amtsdauer des Vorstands
 
-1. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstandes im Amt.
+1. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstands im Amt.
 
-1. Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, so wählt der Vorstand ein Ersatzmitglied.
+1. Scheidet ein Mitglied des Vorstands während der Amtsperiode aus, so wählt der erweiterte Vorstand ein Ersatzmitglied. Falls der übrige Vorstand weniger als zwei Personen umfasst, so wählt eine automatisch einberufene Mitgliederversammlung ein Ersatzmitglied.
+
+1. Die Wiederwahl der Vorstandsmitglieder ist möglich.
 
 
 
 ### 0900 Beschlussfassung des Vorstands
-1. Der fasst seine Beschlüsse im Allgemeinen in Vorstandssitzungen, die von einem Vorstandsmitglied hinreichend unter Verwendung beliebiger funktionaler Kommunikationsart erwirkt werden.
+1. Der fasst seine Beschlüsse im Allgemeinen in virtuellen oder physischen Vorstandssitzungen, die von einem Vorstandsmitglied hinreichend unter Verwendung beliebiger funktionaler Kommunikationsart erwirkt werden.
 1. Es Bedarf der Angabe des Grundes zur Einberufung, so dass die Möglichkeit eines rechtzeitigen Vorab-Informierens der Teilnehmer besteht.
-1. 
+1. Der Vorstand ist beschlussfähig wenn mindestens zwei Mitglieder des erweiterten Vorstands anwesend sind.
+1. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit muss der Beschluss zeitlich verschoben werden.
+1. Die Beschlussfassung kann auf schriftlichem (Post, E-Mail, online) oder fernmündlich gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu derart Regelung schriftlich oder fernmündlich erklären.
+1. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind ebenso zu dokumentieren - mittels Schrift- oder Tonaufzeichnung wie solche regulärer Sitzungen.
+
 
 
 ### 1000 Mitgliederversammlung (siehe Parteien Gesetz §9)
@@ -191,23 +202,146 @@ Oder nach Himmelsrichtungen referenziert zum Breiten-, Längengrad 0, 0, wobei d
 1. Stimmabgaben, die nicht bis zum Ende der Frist eingehen, gelten als Enthaltungen.
 
 1. *Die Mitgliederversammlung als das oberste beschlussfassende Vereinsorgan ist grundsätzlich für alle Aufgaben zuständig, sofern spezielle Aufgaben gemäß dieser Satzung nicht einem anderen Vereinsorgan übertragen wurden.*
-1. Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die Genehmigung und die Entlastung des Vorstandes verfügbar zu machen.
+1. Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die Genehmigung und die Entlastung des Vorstands verfügbar zu machen.
 1. Obwohl die Buchführung im weltweiten Netz offen gelegt ist, steht es der Mitgliederversammlung frei, beliebig viele Rechnungsprüfer zu bestimmen, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis vor der Mitgliederversammlung zu berichten.
-
-1. Die Mitgliederversammlung entscheidet auch über:
-  * Strategie und Aufgaben des Vereins
-
 1. Jede satzungsmäßig einberufene Mitgliederversammlung ist beschlussfähig - ohne Rücksicht auf die Zahl der anwesenden Vereinsmitglieder.
 
+1. Die Mitgliederversammlung ist insbesondere für folgende Angelegenheiten zuständig:
+  * Entgegennahme des Jahresberichtes des Vorstands; Entlastung des Vorstands
+  * Optional der Festsetzung einer spezifischen Höhe oder Fälligkeit des Jahresbeitrags
+  * Wahl und Abberufung der Mitglieder des Vorstands
+  * Auflösung des Vereins
+  * Verschmelzung mit anderen juristischen Personen
+  * Modifikation des Vereinszwecks (Einstimmigkeit notwendig)
+  * Änderung der Satzung
+  * Optional Schiedsgerichtsordnung.
+
+1. Beschlüsse werden mit einfacher Mehrheit mit Ausnahme von Satzungs-, Zweckänderungen und Auflösung des Vereins gefasst; bei Stimmengleichheit wird die Entscheidung über einen Antrag zeitlich verschoben.
+
+1. Mitgliederversammlungen sind öffentlich, die Versorgung mit Raum und Zeit sei aber vorrangig für Mitglieder reserviert.
 
 
-#### Beschlüsse
-1. Bestimmung über:
-  * Zweck (Einstimmigkeit),
-  * Satzung (einfache Mehrheit oder 2/3 Mehrheit, jedoch mindestens einfache Mehrheit alle zugehörigen Mitglieder? <- Nach BGB §33 sind drei Viertel aller Stimmen erforderlich, also bei 3 Personen 2.25, also nach mathematischem Runden 2, jedoch nach mindestens drei Viertel, 3, also in diesem Fall von 3 Mitgliedern Einstimmigkeit.),
-  * Beitragsordnung.
-  * Schiedsgerichtsordnung.
-  * Auflösung sowie Verschmelzung mit anderen Parteien.
+
+### 1100 Willensbildung in den Organen
+1. Jedes Mitglied hat eine Stimme.
+
+1. Jedes Mitglied besitzt ein Antragsrecht, damit auch Minderheiten gleichberechtigt ihre Vorschläge zur Erörterung bringen können.
+1. Ein Antrag, über den entschieden werden soll, muss vor einer Versammlung bereits virtuell oder im Mindesten als Ton-Aufzeichnung öffentlich und kommentierbar verfügbar sein, um den Arbeitsaufwand zur Abarbeitung vieler Anträge zu reduzieren und sogleich Unklarheiten durch interaktives Fragen des Publikums oder durch das Publikum (also der anderen Mitglieder) zu erlauben.
+1. Gründe, Ziele und insbesondere die Änderungen, die ein Vorschlag mit sich bringt, sind im Antrag anzuführen, da ohne diese Information kein Verständnis des Vorschlags möglich ist.
+1. In der Versammlung wird der Antrag diskutiert, jedem sich meldenden Mitglied ist 3 Minuten Rede- oder Schreibzeit zu gewähren.
+1. Die Redezeit wird auf zwei Runden aufgeteilt, wobei die Reihenfolge jeweils neu ausgelost wird.
+1. Die Zeit kann neben einer klassischen physischen Meldung auch in einem online Chat mittels Programmfunktion oder einer entsprechenden Textnachricht gebucht werden.
+1. Es ist mindestens die einfache Mehrheit der anwesenden Mitgliederzahl nötig.
+1. Eine Annahme bedeutet die Ausarbeitung/Überarbeitung von implizierten Beschlüssen, was ebenfalls wiederum unmittelbar, also direkt nach Abstimmung, erfolgen kann.
+
+
+
+###1200 Aufstellung von Wahlbewerbern
+1. Bewerber für Wahlen werden geheim nach Bereiterklärung und Erbringung eines Bereitschaftsbeweises mittels mindestens im Ton festgehaltenem Bereitsschaftsvortrag gleichberechtigt gewählt.
+
+1. Um Vor- und Nachteilen, die durch verschiedene Verfassungs-, Stimmungslagen des Vorträgers und des Publikums zu Beginn, gegen Ende und dazwischen, entstehen können, entgegen zu wirken, wird die Reihenfolge von Vorträgen ausgelost.
+1. Bei physischen Versammlungen ist ein Vortrag physisch, live zu halten, um Verfälschungen der Persönlichkeit durch Medienmanipulation zu unterbinden.
+1. Bei virtuellen Sitzungen muss darauf hingewiesen werden, dass eine Nachbearbeitung von Medien und Aufzeichnungen oder Modifikationen von übertragenen Daten nicht garantiert verhindert werden kann.
+1. Die Reihenfolge der Aufstellung von Listen in der die Reihenfolge eine Rolle spielt, wird nach Bereitschaftserklärung und gelungenem Beweis (einfache Mehrheit der Ist-Bereit-Stimmen erhalten) ausgelost.
+
+
+
+###1300 Bereitschaftserklärung
+Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen des Vereins erklärt.
+
+
+
+###1400 Bereitschaftsbeweis
+1. Mittels innerhalb einer Gesamtzeit von 60 Minuten abgehaltenem 30 minütigem Vortrag, 20 Minuten Fragen, 10 Minuten Bereitschaftszustimmungs-Wahl (ja, Enthaltung), nahtlos an vorigen Vortrag angereiht und pünktlich beendet, andernfalls abrupter Abbruch.
+
+1. Vorträge können nicht ausschließlich virtuell sein, müssen also physisch und persönlich unter hinreichend Publikum (Zeugen- und Rechtmäßigkeitsfunktion) gehalten werden.
+
+1. Vorträge müssen zur Dokumentation virtuell und öffentlich verfügbar sein (das heißt Ton und Bild aufgenommen werden und mindestens persönlich frei einsehbar sein).
+
+1. Es herrscht keine direkte Anwesenheitspflicht, da die Partei die Meinung vertritt, dass soweit möglich durch Beispiel/Vorbild und nicht durch Verpflichtung und Verbot geführt werden sollte.
+
+1. Da die Bereitschaft (und damit Charakter, Fähigkeit, Vision und Vorbereitetheit) für Amtsträger aufgrund der großen Verantwortung und der umfassenden Macht-, Auftritt- (Aura) und Einfluss auf Entscheidungen von großer Bedeutung ist, besteht indirekte Anwesenheitspflicht mittels Bereitschaftsstimmzahl-Konto.
+
+1. Jedes Mitglied startet mit Bereitsschaftstimmzahlstand Null (0), insofern es erstmalig Mitglied der Partei wurde. Andernfalls wird der Bereitsschaftsstimmzahlstand der vorigen Mitgliedschaft unverändert übernommen.
+
+1. Bei Abwesenheit eines gehaltenen Vortrages wird der Punktestand um den Anteil der verpassten Vorträge vom Gesamtvortragschatz mit der insgesamt verfügbaren Stimmenzahl der Partei multipliziert und dies als Malus auf das Bereitschaftsstimmzahl-Konto übertragen (also abgezogen/subtrahiert).
+
+
+1. Dies bedeutet, Anwesenheit und damit Mitwirkung an den Wahlen lohnt sich, auch da die Bereitschaftszustimmzahl für die Aufstellung von Kandidaten und für die Listenreihenfolge herangezogen werden muss, insofern die Reihenfolge nicht ausgelost wird.
+
+
+
+### 1500 Zeit ("Redezeit"/Vortragszeit)
+1. Die Dauer des Vortrags muss weniger als 30min (inklusive Übergangszeit) betragen.
+
+1. Das Intervall Vortrag + Fragen muss > 30min, > Gesamtzeit / Bereitschaft gemeldete Mitgliederzahl
+<= Gesamtzeit / Mitgliederzahl
+
+
+
+### 1600 Nachträgliche Anträge zur Tagesordnung
+1. Jedes Mitglied kann bis eine Woche vor dem Tag der Mitgliederversammlung beim Vorstand schriftlich beantragen, dass weitere Angelegenheiten nachträglich auf die Tagesordnung gesetzt werden.
+1. Alternativ kann bis 24 Stunden vor Beginn der Versammlung einen "Pull request" zur unter Versionskontrolle stehenden Tagesordnung stellen.
+1. Die Füllung des Tagesordnungspunkts obliegt dem Mitglied, das den Tagesordnungspunkt erwirkt hat.
+1. Bei Fehlen des Mitglieds bei der Versammlung, kann der Punkt übersprungen werden, falls nicht andere Mitglieder die Angelegenheit abhandeln.
+1. Eine vollständige Tagesordnung ist bei Beginn der Versammlung bekannt zu machen.
+1. Über die Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, beschließt die Mitgliederversammlung.
+1. Zur Annahme des Antrages ist eine Mehrheit von drei Viertel der abgegebenen gültigen Stimmen erforderlich.
+1. Satzungsänderungen, die Auflösung des Vereins sowie die Wahl und Abberufung von Vorstandsmitgliedern betreffen, können nur beschlossen werden, wenn die Anträge den Mitgliedern mit der Tagesordnung angekündigt worden sind.
+
+
+
+### 1700 Satzungsänderungen
+
+1. Ordentliche Änderung erfordert mindestens einfache Mehrheit aller Mitglieder.
+1. Nach BGB §33 sind drei Viertel aller anwesenden Stimmen erforderlich. Beispiel: bei 3 Personen wären Dreiviertel gleich 2.25, mathematisch gerundet 2, jedoch ergibt sich 3 nach Aufrundung da *mindestens* drei Viertel gefordert sind; was im Fall von 3 Mitgliedern Einstimmigkeit bedeutet.
+
+1. Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt bereits in der Einladung (im Rahmen der satzungsmäßigen Frist) zur Mitgliederversammlung hingewiesen wurde und in der Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext oder im Mindesten die Änderungen mit ausreichend Kontext beigefügt oder auf die jeweiligen Dokumente hingewiesen oder verlinkt worden war.
+
+1. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen, wenn diese Modifikationen allen Vereinsmitgliedern sofort schriftlich mitgeteilt werden.
+
+
+
+### 1800 Datenschutz
+
+1. Im Rahmen der Mitgliederverwaltung werden von den Mitgliedern folgende Daten erhoben:
+  * Name
+  * Vorname
+  * Anschrift
+  * E-Mail-Adresse
+  * Funktion.
+
+1. Diese Daten werden im Rahmen der Mitgliedschaft verarbeitet und gespeichert.
+
+1. Bei Mitgliedschaft in Verbänden oder Netzwerken muss der Verein die Daten seiner Mitglieder an den Verband weitergeben.
+
+1. Darüber hinaus veröffentlicht der Verein die Daten seiner Mitglieder intern wie extern nur nach entsprechenden Beschlüssen der Mitgliederversammlung und nimmt die Daten von Mitgliedern aus, die einer Veröffentlichung widersprochen haben.
+
+
+
+### 1900 Auflösung des Vereins
+
+1. Für den Beschluss, den Verein aufzulösen, ist nach § 41 BGB eine Dreiviertelmehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich; mindestens jedoch die Hälfte aller Mitglieder.
+
+1. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden.
+
+1. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins im Rahmen des § 45 BGB an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es für weltweite Entwicklungshilfe, z.B. Bekämpfung der Unterdrückung der Frau, Kinderarmut, oder für das Lehren des Englischen, Lesens und Schreibens von Kindern in armen Regionen der Welt zu verwenden hat.
+
+1. Zur Verfügung gestelltes Vermögen geht zurück an die ursprünglichen Besitzer, beziehungsweise deren rechtliche Nachfolger, insofern das Vermögen freiheitlich vermacht und noch nicht aufgebraucht wurde.
+
+
+
+
+
+
+Die vorstehende Satzung wurde in der Gründungsversammlung (Mitgliederversammlung) vom 30. Juni 2016 erstmals errichtet.
+
+
+
+____________
+Ort, Datum
+
+
 
 
 
