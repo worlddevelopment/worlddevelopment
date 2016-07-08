@@ -338,7 +338,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-Die vorstehende Satzung wurde in der Gründungsversammlung (Mitgliederversammlung) vom 30. Juni 2016 erstmals errichtet.
+Die vorstehende Satzung wurde in der Gründungsversammlung (Mitgliederversammlung) vom 30. Juli 2016 erstmals errichtet.
 
 
 
