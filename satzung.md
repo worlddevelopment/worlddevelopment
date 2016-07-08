@@ -3,7 +3,7 @@ Satzung
 ===
 
 ### 0000 Definitionen
-1. Der englische Begriff "worlddevelopment" bezeichne nachstehend Weltentwicklung.Da die Aktivitäten des Vereins nicht auf eine Gruppenzugehörigkeit beschränkt ist, wird der Englische Begriff verwendet, da Englisch-Kenntnis zum Zeitpunkt der Gründung den Größtteil der Weltbevölkerung umfasst.
+1. Der englische Begriff "worlddevelopment" sei in nachstehendem Text gleichermaßen wie das deutsche Substantiv "Weltentwicklung" verwendet. Da die Aktivitäten des Vereins nicht auf eine Gruppenzugehörigkeit beschränkt ist, wird der englische Begriff verwendet, da Englisch-Kenntnis zum Zeitpunkt der Gründung den Größtteil der Weltbevölkerung umfasst.
 1. Der Operator =: beziehungsweise := definiere verwendete Abkürzungen, wobei der Doppelpunkt ":" auf der Seite der Abkürzung stehe.
 1. Die Reihenfolge der Überschriften, Paragraphen, Punkte oder Sätze ist flexibel so definiert, dass spätere Einfügung ohne Verschiebung dieser untereinander weitestgehend möglich ist, wodurch die konsistente Referenzierung zeitunabhängig vereinfacht wird.
 1. Pull request: Antrag auf Wieder-Einmischung von gemachten Änderungen nach Gabelung eines Projekts unter Versionskontrolle.
@@ -18,7 +18,7 @@ Satzung
 1. Der Verein ist politisch, ethnisch und konfessionell neutral, obliegt keiner Abhängigkeit zu Einzelnen oder Gruppierungen - auch nach Spendenentgegennahme oder anderer erhaltener Leistungen -, sondern gehört der Welt im Ganzen als verantwortungsbewusster, mündiger, aufgeklärter juristischer Weltbürger an.
 1. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke".
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung §§ 51 folgende.
 
 
 
@@ -28,8 +28,8 @@ Satzung
 
 1. Der Satzungszweck wird verwirklicht insbesondere durch direkte Weltentwicklung (world development) oder Hilfe bei dergleichen (Englisch: "development aid"), insbesondere:
     * Entwicklung von friedlichen, nützlichen, ethisch vertretbaren Maschinen.
-    * Verfügbarmachung von freien, open source Bauplänen der Maschinen, beispielsweise im weltweiten Netzwerk.
-    * Hilfe bei Beschaffung, Konstruktion und Verwendung der Maschinen, Vorort oder aus der Ferne.
+    * Verfügbarmachen von freien, open source Bauplänen der Maschinen, beispielsweise im weltweiten Netzwerk.
+    * Hilfe bei Beschaffung, Konstruktion und Verwendung der Maschinen, vor Ort oder aus der Ferne.
     * Transparenter Beratung,
     * Erbringen von nachvollziehbaren gemeinnützigen Dienstleistungen wie Werbung für Petitionen, Einsatz für Rechte und Werte.
     * Entwicklung und Verbreitung von technischen Programmen, beispielsweise zur Vereinfachung des Lehrwesens oder der Erhöhung der Geschichtsbildung, um die Sensibilität gegenüber Friedensbewahrung zu erhöhen.
@@ -53,9 +53,9 @@ Satzung
 
 1. Der Verein verwirklicht den Satzungszweck auch durch die Beschaffung von Mitteln für eigene oder andere frei verfügbare open source Projekte, insofern diese zur Verwirklichung des Vereinszwecks verhelfen. Als Beispiel sei die Vermarktung von lokal erzeugten Gütern wie Milch, Gemüse und Verarbeitungsprodukte aus diesen genannt.
 
-1. Dem Verein obliegt die Freiheit durch Erbringen von Dienstleistungen (Englisch: "services"), beispielsweise die ökologische Entfernung von an gewissen Stellen ungewollten Pflanzen (=: Unkraut) oder die Heilung von Tier, Pflanze, oder Reparatur von Computern und anderen Maschinen, die Finanzlage zur Erfüllung der genannten Ziele aufzubessern sowie die an den erbrachten Services teilnehmenden Mitglieder oder Nicht-Mitglieder angemessen, also anteilmäßig, zu entlohnen, wobei dem Verein im Mindesten der gleiche Teil zusteht wie dem am meisten teilgenommenen Mitglied zugewendet wird (ersichtlich, nachvollziehbar aus der obligatorischen offenen Buchhaltung); letztgenannte Regelung soll dem Anwerben von Attrappen-, Scheinhelfern zur Reduzierung des Vereinsanteils entgegenwirken.
+1. Dem Verein obliegt die Freiheit durch Erbringen von Dienstleistungen (Englisch: "services") mittels angemeldetem Gewerbe, beispielsweise die ökologische Entfernung von an gewissen Stellen ungewollten Pflanzen (=: Unkraut) oder die Heilung von Tier, Pflanze, oder Reparatur von Computern und anderen Maschinen, die Finanzlage zur Erfüllung der genannten Ziele aufzubessern sowie die an den erbrachten Services teilnehmenden Mitglieder oder Nicht-Mitglieder angemessen, also anteilmäßig, zu entlohnen, wobei dem Verein im Mindesten der gleiche Teil zusteht wie dem am meisten teilgenommenen Mitglied zugewendet wird (ersichtlich, nachvollziehbar aus der obligatorischen offenen Buchhaltung); letztgenannte Regelung soll dem Anwerben von Attrappen-, Scheinhelfern zur Reduzierung des Vereinsanteils entgegenwirken, wobei genauere Regelungen in einer separaten vereinszweck-konformen Schrift, der durch die Vorstandschaft festgelegten Gewerbeordnung, festgelegt werden können.
 
-1. Welteinkommen, Umsätze und Gewinne aus Leistungen, die der Verein erbringt seien immer je nach Zweck ordnungsgemäß zu versteuern, sind also gegebenenfalls nicht steuerbegünstigt.
+1. Welteinkommen, Umsätze und Gewinne aus Leistungen, die der Verein erbringt seien immer je nach Zweck und Gesetzeslage ordnungsgemäß zu versteuern.
 
 1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -99,7 +99,7 @@ Satzung
 
 
 
-### 0400 Beendigung der Mitgliedschaft
+### 0400 Beenden der Mitgliedschaft
 
 1. Die Mitgliedschaft endet
 a) mit dem Tod des Mitglieds,
@@ -121,6 +121,8 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Bei Fehlen derartiger Bestimmungen betrage die Höhe 1 € pro Jahr und sei kompromissgemäß zur Mitte des Jahres am 1. Juli um 0:00 Uhr fällig.
 
+1. Bei Nicht-Erbringen der Mitgliedschaftsbeitragsgebühr ist der Status des Mitglieds automatisch gleich dem eines Nicht-Mitglieds.
+
 
 
 ### 0600 Organe des Vereins
@@ -130,7 +132,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Diskurs, philosphisches Fragen und daher folglich die bestmögliche Vernunft zu einem Wissensstand bestimmen Beschlüsse.
 
-1. Beschlüsse müssen gemeinschaftlich getragen werden (Zwei Drittel Mehrheit aller Mitglieder).
+1. Beschlüsse müssen gemeinschaftlich getragen werden (Mehrheit aller Mitglieder).
 
 
 
@@ -140,8 +142,8 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Er hat für das Erreichen der Ziele des Vereins in erster Linie zu sorgen, was jedoch nicht notwendigerweise bedeutet, dass es der Hauptverdienst des Vorstands war, falls Ziele erreicht werden.
 
 1. Der Vorstand im Sinne des § 26 Bürgerliches Gesetzbuch (=: BGB) besteht aus den folgenden Funktionen, wobei stets jedes Vorstandsmitglied gleichwertig sei:
-  * Entwicklungshelfer "Konsul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichkeitsarbeit, strategische Entwicklung des Vereins, ...)
-  * Entwicklungshelfer "Konsul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichungsarbeit, strategische Entwicklung des Vereins, ...)
+  * Entwicklungshelfer "Consul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichkeitsarbeit, strategische Entwicklung des Vereins, ...)
+  * Entwicklungshelfer "Consul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichungsarbeit, strategische Entwicklung des Vereins, ...)
 
 1. Der erweiterte, optionale Vorstand besteht aus:
   * Mitgliedschaftsbeauftragter "Tribun" (Überblick Mitglieder, Mitgliedschaften in anderen gemeinnützigen Organisationen, (Hilfs-)Aktionen in durch Dritte organisiertem Engagement, ...)
