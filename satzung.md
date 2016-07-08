@@ -87,7 +87,7 @@ Satzung
 
 
 
-### 0300 Erwerb der Mitgliedschaft
+### 0400 Erwerb der Mitgliedschaft
 
 1. Mitglied des Vereins kann jede natürliche oder juristische Person werden, die die Ziele des Vereins unterstützt.
 1. Fördermitglied kann jede natürliche oder juristische Person werden, die den Verein bei der Erreichung seiner Ziele in jeder geeigneten Weise fördern will.
@@ -99,7 +99,7 @@ Satzung
 
 
 
-### 0400 Beenden der Mitgliedschaft
+### 0500 Beenden der Mitgliedschaft
 
 1. Die Mitgliedschaft endet
 a) mit dem Tod des Mitglieds,
@@ -116,7 +116,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 0500 Mitgliedsbeiträge
+### 0600 Mitgliedsbeiträge
 1. Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.
 
 1. Bei Fehlen derartiger Bestimmungen betrage die Höhe 1 € pro Jahr und sei kompromissgemäß zur Mitte des Jahres am 1. Juli um 0:00 Uhr fällig.
@@ -125,7 +125,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 0600 Organe des Vereins
+### 0700 Organe des Vereins
 1. Der Verein ist in einen Vorstand und eine Mitgliederversammlung gegliedert.
 
 1. Es herrscht Gleichberechtigung.
@@ -136,7 +136,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 0700 Der Vorstand
+### 0800 Der Vorstand
 1. Dem Vorstand obliegt die Führung der laufenden Geschäfte.
 1. Er hat insbesondere die Aufgabe bei allen Aktionen der aktiven Mitglieder mit Rat und Tat zu helfen.
 1. Er hat für das Erreichen der Ziele des Vereins in erster Linie zu sorgen, was jedoch nicht notwendigerweise bedeutet, dass es der Hauptverdienst des Vorstands war, falls Ziele erreicht werden.
@@ -170,7 +170,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 0800 Amtsdauer des Vorstands
+### 0900 Amtsdauer des Vorstands
 
 1. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstands im Amt.
 
@@ -180,7 +180,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 0900 Beschlussfassung des Vorstands
+### 1000 Beschlussfassung des Vorstands
 1. Der fasst seine Beschlüsse im Allgemeinen in virtuellen oder physischen Vorstandssitzungen, die von einem Vorstandsmitglied hinreichend unter Verwendung beliebiger funktionaler Kommunikationsart erwirkt werden.
 1. Es Bedarf der Angabe des Grundes zur Einberufung, so dass die Möglichkeit eines rechtzeitigen Vorab-Informierens der Teilnehmer besteht.
 1. Der Vorstand ist beschlussfähig wenn mindestens zwei Mitglieder des erweiterten Vorstands anwesend sind.
@@ -190,7 +190,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 1000 Mitgliederversammlung (siehe Parteien Gesetz §9)
+### 1100 Mitgliederversammlung (siehe Parteien Gesetz §9)
 
 1. Die Mitgliederversammlung ist mindestens alle zwei Jahre virtuell oder physisch abzuhalten.
 1. Über die nächste Zusammenkunft kann aus Optionen abgestimmt werden. Falls dies nicht geschieht ist der Termin der 30. Juni des jeweiligen Jahres, denn Jahresende und Anfang sind meist bereits ausgefüllt - weiter ist ein physischer Versammlungsort im Winter schwierig oder nur kostenintensiv zu organisieren.
@@ -224,7 +224,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-### 1100 Willensbildung in den Organen
+### 1200 Willensbildung in den Organen
 1. Jedes Mitglied hat eine Stimme.
 
 1. Jedes Mitglied besitzt ein Antragsrecht, damit auch Minderheiten gleichberechtigt ihre Vorschläge zur Erörterung bringen können.
@@ -238,7 +238,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-###1200 Aufstellung von Wahlbewerbern
+###1300 Aufstellung von Wahlbewerbern
 1. Bewerber für Wahlen werden geheim nach Bereiterklärung und Erbringung eines Bereitschaftsbeweises mittels mindestens im Ton festgehaltenem Bereitsschaftsvortrag gleichberechtigt gewählt.
 
 1. Um Vor- und Nachteilen, die durch verschiedene Verfassungs-, Stimmungslagen des Vorträgers und des Publikums zu Beginn, gegen Ende und dazwischen, entstehen können, entgegen zu wirken, wird die Reihenfolge von Vorträgen ausgelost.
@@ -248,12 +248,12 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-###1300 Bereitschaftserklärung
+###1400 Bereitschaftserklärung
 Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen des Vereins erklärt.
 
 
 
-###1400 Bereitschaftsbeweis
+###1500 Bereitschaftsbeweis
 1. Mittels innerhalb einer Gesamtzeit von 60 Minuten abgehaltenem 30 minütigem Vortrag, 20 Minuten Fragen, 10 Minuten Bereitschaftszustimmungs-Wahl (ja, Enthaltung), nahtlos an vorigen Vortrag angereiht und pünktlich beendet, andernfalls abrupter Abbruch.
 
 1. Vorträge können nicht ausschließlich virtuell sein, müssen also physisch und persönlich unter hinreichend Publikum (Zeugen- und Rechtmäßigkeitsfunktion) gehalten werden.
@@ -273,7 +273,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-### 1500 Zeit ("Redezeit"/Vortragszeit)
+### 1600 Zeit ("Redezeit"/Vortragszeit)
 1. Die Dauer des Vortrags muss weniger als 30min (inklusive Übergangszeit) betragen.
 
 1. Das Intervall Vortrag + Fragen muss > 30min, > Gesamtzeit / Bereitschaft gemeldete Mitgliederzahl
@@ -281,7 +281,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-### 1600 Nachträgliche Anträge zur Tagesordnung
+### 1700 Nachträgliche Anträge zur Tagesordnung
 1. Jedes Mitglied kann bis eine Woche vor dem Tag der Mitgliederversammlung beim Vorstand schriftlich beantragen, dass weitere Angelegenheiten nachträglich auf die Tagesordnung gesetzt werden.
 1. Alternativ kann bis 24 Stunden vor Beginn der Versammlung einen "Pull request" zur unter Versionskontrolle stehenden Tagesordnung stellen.
 1. Die Füllung des Tagesordnungspunkts obliegt dem Mitglied, das den Tagesordnungspunkt erwirkt hat.
@@ -293,7 +293,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-### 1700 Satzungsänderungen
+### 1800 Satzungsänderungen
 
 1. Ordentliche Änderung erfordert mindestens einfache Mehrheit aller Mitglieder.
 1. Nach BGB §33 sind drei Viertel aller anwesenden Stimmen erforderlich. Beispiel: bei 3 Personen wären Dreiviertel gleich 2.25, mathematisch gerundet 2, jedoch ergibt sich 3 nach Aufrundung da *mindestens* drei Viertel gefordert sind; was im Fall von 3 Mitgliedern Einstimmigkeit bedeutet.
@@ -304,7 +304,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-### 1800 Datenschutz
+### 1900 Datenschutz
 
 1. Im Rahmen der Mitgliederverwaltung werden von den Mitgliedern folgende Daten erhoben:
   * Name
@@ -321,7 +321,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-### 1900 Auflösung des Vereins
+### 2000 Auflösung des Vereins
 
 1. Für den Beschluss, den Verein aufzulösen, ist nach § 41 BGB eine Dreiviertelmehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich; mindestens jedoch die Hälfte aller Mitglieder.
 
@@ -330,6 +330,8 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 1. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins im Rahmen des § 45 BGB an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es für weltweite Entwicklungshilfe, z.B. Bekämpfung der Unterdrückung der Frau, Kinderarmut, oder für das Lehren des Englischen, Lesens und Schreibens von Kindern in armen Regionen der Welt zu verwenden hat.
 
 1. Zur Verfügung gestelltes Vermögen geht zurück an die ursprünglichen Besitzer, beziehungsweise deren rechtliche Nachfolger, insofern das Vermögen freiheitlich vermacht und noch nicht aufgebraucht wurde.
+
+
 
 
 
