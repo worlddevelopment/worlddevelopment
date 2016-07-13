@@ -15,8 +15,7 @@ The standards
 Adhering to the following standards partly or entirely fixes most development issues, therefore ensures automatic, consistent, consequent development without data entropy getting out of control:
 
 
-* https://github.com/faerietree/multimachine_lightspeed_precise/issues/1
-
+* [Every part its own `<part>`.blend grouped as "Group" => Fulfill single source principle, Automate dependency, URI reference handling](https://github.com/faerietree/multimachine_lightspeed_precise/issues/1)
 
 
 
