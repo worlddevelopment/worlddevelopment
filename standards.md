@@ -17,5 +17,8 @@ Adhering to the following standards partly or entirely fixes most development is
 
 * [Every part its own `<part>`.blend grouped as "Group" => Fulfill single source principle, Automate dependency, URI reference handling](https://github.com/faerietree/multimachine_lightspeed_precise/issues/1)
 
+* [Only stable parameters like e.g. dimensions, IDs in URI / file names. Prevent price, URL, ...](https://github.com/faerietree/gears_maedler/issues/1)
+
+
 
 
