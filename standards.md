@@ -21,5 +21,5 @@ Adhering to the following standards partly or entirely fixes most development is
 
 * [Give values in SI units and omit the unit](https://github.com/faerietree/universal_prototyping_kit/issues/4)
 
-
+* [Reference at least one real world part in the URI / file name. Keep it at the end directly before the ending.](https://github.com/faerietree/universal_prototyping_kit/issues/5)
 
