@@ -19,6 +19,7 @@ Adhering to the following standards partly or entirely fixes most development is
 
 * [Only stable parameters like e.g. dimensions, IDs in URI / file names. Prevent price, URL, ...](https://github.com/faerietree/gears_maedler/issues/1)
 
+* [Give values in SI units and omit the unit](https://github.com/faerietree/universal_prototyping_kit/issues/4)
 
 
 
