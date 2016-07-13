@@ -23,3 +23,5 @@ Adhering to the following standards partly or entirely fixes most development is
 
 * [Reference at least one real world part in the URI / file name. Keep it at the end directly before the ending.](https://github.com/faerietree/universal_prototyping_kit/issues/5)
 
+* [Use basic KB template for `<part>`.blend](https://github.com/faerietree/universal_prototyping_kit/issues/6)
+
