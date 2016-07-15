@@ -32,15 +32,15 @@ Adhering to the following standards partly or entirely fixes most development is
 
 
 ###Project internal
-* Group group instances that are linked.
+1. Group group instances that are linked.
 **=>** Allows exchanging a part by another internal, linked part by redefining which objects are in the group.
 
-* Prefix 'Assembly' to groups that use parts (as group instances of the group that contains the instance of the linked group).
+1. Prefix 'Assembly' to groups that use parts (as group instances of the group that contains the instance of the linked group).
 **=>** This way checking in which assemblies a part is used in the outliner is just a matter of searching within all prefixed groups for the group name of the part.
 **Tip:** Search for the group name. Then scan the 'Assembly'-prefixed matches manually.
 
-* Keep linked boolean data blocks that are added at times when linking, instancing a group.
-**=>** Allows to easily adapt the hole pattern by making these duplicates real, single user and repositioning, et alia.
+1. Keep linked boolean data blocks that are added at times when linking, instancing a group.
+**=>** Allows to easily adapt the hole pattern by making these duplicates real, single user and repositioning, et alia. Including these satellite objects in the group (see 1.) may not be wise.
 
 
 
