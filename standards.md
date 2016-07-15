@@ -10,10 +10,14 @@ When imagining this happening thousands of times, the tremendous scale of the pr
 Therefore to allow effective, consistent and steady world development fixing such issues required thinking power of several years.
 
 
+
 The standards
 ---
+
 Adhering to the following standards partly or entirely fixes most development issues, therefore ensures automatic, consistent, consequent development without data entropy getting out of control:
 
+
+###Global
 
 * [Every part its own `<part>`.blend grouped as "Group" => Fulfill single source principle, Automate dependency, URI reference handling](https://github.com/faerietree/multimachine_lightspeed_precise/issues/1)
 
@@ -24,4 +28,19 @@ Adhering to the following standards partly or entirely fixes most development is
 * [Reference at least one real world part in the URI / file name. Keep it at the end directly before the ending.](https://github.com/faerietree/universal_prototyping_kit/issues/5)
 
 * [Use basic KB template for `<part>`.blend](https://github.com/faerietree/universal_prototyping_kit/issues/6)
+
+
+
+###Project internal
+* Group group instances that are linked.
+**=>** Allows exchanging a part by another internal, linked part by redefining which objects are in the group.
+
+* Prefix 'Assembly' to groups that use parts (as group instances of the group that contains the instance of the linked group).
+**=>** This way checking in which assemblies a part is used in the outliner is just a matter of searching within all prefixed groups for the group name of the part.
+**Tip:** Search for the group name. Then scan the 'Assembly'-prefixed matches manually.
+
+* Keep linked boolean data blocks that are added at times when linking, instancing a group.
+**=>** Allows to easily adapt the hole pattern by making these duplicates real, single user and repositioning, et alia.
+
+
 
