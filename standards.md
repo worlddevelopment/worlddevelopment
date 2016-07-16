@@ -29,6 +29,7 @@ Adhering to the following standards partly or entirely fixes most development is
 
 * [Use basic KB template for `<part>`.blend](https://github.com/faerietree/universal_prototyping_kit/issues/6)
 
+* [Reasons for why to depend on an existing part instead of generating it for every project.](https://github.com/worlddevelopment/worlddevelopment/issues/3)
 
 
 ###Project internal
