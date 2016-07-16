@@ -7,6 +7,9 @@ Roadmap
 Current focus/effort for the fulfillment of an excerpt of the worlddevelopment goals:
 
 
+* Universal technology (pivot), universally trainable:
+  * 1%, <a href="https://github.com/worlddevelopment/universal_automata">Universal automata</a>
+
 * Increase living standards:
   * 45%, <a href="https://github.com/worlddevelopment/electricity_from_stream">Electricity from stream</a>.
   * 20%, <a href="https://github.com/worlddevelopment/electricity_from_airflow">Electricity from wind</a>.
