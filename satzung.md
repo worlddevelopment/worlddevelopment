@@ -181,7 +181,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 ### 1000 Beschlussfassung des Vorstands
-1. Der fasst seine Beschlüsse im Allgemeinen in virtuellen oder physischen Vorstandssitzungen, die von einem Vorstandsmitglied hinreichend unter Verwendung beliebiger funktionaler Kommunikationsart erwirkt werden.
+1. Der Vorstand fasst seine Beschlüsse im Allgemeinen in virtuellen oder physischen Vorstandssitzungen, die von einem Vorstandsmitglied hinreichend unter Verwendung beliebiger funktionaler Kommunikationsart erwirkt werden.
 1. Es Bedarf der Angabe des Grundes zur Einberufung, so dass die Möglichkeit eines rechtzeitigen Vorab-Informierens der Teilnehmer besteht.
 1. Der Vorstand ist beschlussfähig wenn mindestens zwei Mitglieder des erweiterten Vorstands anwesend sind.
 1. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit muss der Beschluss zeitlich verschoben werden.
