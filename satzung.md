@@ -283,7 +283,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 ### 1700 Nachträgliche Anträge zur Tagesordnung
 1. Jedes Mitglied kann bis eine Woche vor dem Tag der Mitgliederversammlung beim Vorstand schriftlich beantragen, dass weitere Angelegenheiten nachträglich auf die Tagesordnung gesetzt werden.
-1. Alternativ kann bis 24 Stunden vor Beginn der Versammlung einen "Pull request" zur unter Versionskontrolle stehenden Tagesordnung stellen.
+1. Alternativ kann jedes Mitglied bis 24 Stunden vor Beginn der Versammlung einen "Pull request" zur unter Versionskontrolle stehenden Tagesordnung stellen.
 1. Die Füllung des Tagesordnungspunkts obliegt dem Mitglied, das den Tagesordnungspunkt erwirkt hat.
 1. Bei Fehlen des Mitglieds bei der Versammlung, kann der Punkt übersprungen werden, falls nicht andere Mitglieder die Angelegenheit abhandeln.
 1. Eine vollständige Tagesordnung ist bei Beginn der Versammlung bekannt zu machen.
