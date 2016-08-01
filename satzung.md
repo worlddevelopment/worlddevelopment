@@ -244,7 +244,7 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Um Vor- und Nachteilen, die durch verschiedene Verfassungs-, Stimmungslagen des Vorträgers und des Publikums zu Beginn, gegen Ende und dazwischen, entstehen können, entgegen zu wirken, wird die Reihenfolge von Vorträgen ausgelost.
 1. Bei physischen Versammlungen ist ein Vortrag physisch, live zu halten, um Verfälschungen der Persönlichkeit durch Medienmanipulation zu unterbinden.
 1. Bei virtuellen Sitzungen muss darauf hingewiesen werden, dass eine Nachbearbeitung von Medien und Aufzeichnungen oder Modifikationen von übertragenen Daten nicht garantiert verhindert werden kann.
-1. Die Reihenfolge der Aufstellung von Listen in der die Reihenfolge eine Rolle spielt, wird nach Bereitschaftserklärung und gelungenem Beweis (einfache Mehrheit der Ist-Bereit-Stimmen erhalten) ausgelost.
+1. Bei der Aufstellung einer Liste, in der die Reihenfolge eine Rolle spielt, wird die Reihenfolge nach Bereitschaftserklärung und gelungenem Beweis (einfache Mehrheit der Ist-Bereit-Stimmen erhalten) ausgelost.
 
 
 
