@@ -330,8 +330,6 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 1. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins im Rahmen des § 45 BGB an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es für weltweite Entwicklungshilfe, z.B. Bekämpfung der Unterdrückung der Frau, Kinderarmut, oder für das Lehren des Englischen, Lesens und Schreibens von Kindern in armen Regionen der Welt zu verwenden hat.
 
-1. Zur Verfügung gestelltes Vermögen geht zurück an die ursprünglichen Besitzer, beziehungsweise deren rechtliche Nachfolger, insofern das Vermögen freiheitlich vermacht und noch nicht aufgebraucht wurde.
-
 
 
 
