@@ -15,7 +15,7 @@ Satzung
 
 1. Der Verein führt den Namen "worlddevelopment".
 1. Der Verein hat seinen Sitz in dem Landkreis Ostallgäu, 86983 Lechbruck, Kirchweg 3.
-1. Der Verein soll in das Vereinsregister eingetragen werden sobald die Gemeinnützigkeit von unentgeltlicher open source Entwicklung anerkannt ist und trägt dann den Zusatz "e.V.".
+1. Der Verein soll in das Vereinsregister eingetragen werden sobald die Gemeinnützigkeit von unentgeltlicher open source Entwicklung anerkannt ist und sicher ist, dass Einkommen aus Vermögensverwaltung, wirtschaftlichem Betrieb nicht signifikant und trägt dann den Zusatz "e.V.".
 1. Der Verein ist politisch, ethnisch und konfessionell neutral, obliegt keiner Abhängigkeit zu Einzelnen oder Gruppierungen - auch nach Spendenentgegennahme oder anderer erhaltener Leistungen, sondern gehört - alsbald eingetragen ins Vereinsregister - der Welt im Ganzen als verantwortungsbewusster, mündiger, aufgeklärter juristischer Weltbürger an.
 1. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
