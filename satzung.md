@@ -56,8 +56,6 @@ Satzung
 
 1. Dem Verein obliegt die Freiheit durch Erbringen von Dienstleistungen (Englisch: "services") mittels angemeldetem Gewerbe, beispielsweise die ökologische Entfernung von an gewissen Stellen ungewollten Pflanzen (=: Unkraut) oder die Heilung von Tier, Pflanze, oder Reparatur von Computern und anderen Maschinen, die Finanzlage zur Erfüllung der genannten Ziele aufzubessern sowie die an den erbrachten Services teilnehmenden Mitglieder oder Nicht-Mitglieder angemessen, also anteilmäßig, zu entlohnen, wobei dem Verein im Mindesten der gleiche Teil zusteht wie dem am meisten teilgenommenen Mitglied zugewendet wird (ersichtlich, nachvollziehbar aus der obligatorischen offenen Buchhaltung); letztgenannte Regelung soll dem Anwerben von Attrappen-, Scheinhelfern zur Reduzierung des Vereinsanteils entgegenwirken, wobei genauere Regelungen in einer separaten vereinszweck-konformen Schrift, der durch die Vorstandschaft festgelegten Gewerbeordnung, festgelegt werden können.
 
-1. Welteinkommen, Umsätze und Gewinne aus Leistungen, die der Verein erbringt seien immer je nach Zweck und Gesetzeslage ordnungsgemäß zu versteuern.
-
 1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
 1. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
@@ -70,6 +68,10 @@ Satzung
 1. Maßstab der Angemessenheit von Vergütungen und Aufwandsentschädigungen ist die gemeinnützige Zielsetzung des Vereins.
 1. Vergütungen, Aufwandsentschädigungen sind automatisch auszusetzen, sollte der Verein keine positive Bilanz erzielen, so dass der Verein sich durch einen rein ehrenamtlichen Charakter in Notsituationen selbst heile.
 
+
+### 0250 Welteinkommen, Umsätzen und Gewinne aus der Vermögensverwaltung, Wirtschaftsbetrieb
+
+1. Welteinkommen, Umsätze und Gewinne aus Vermögensverwaltung sowie Wirtschaftsbetrieb des Vereins seien immer je nach Zweck und Gesetzeslage ordnungsgemäß zu versteuern.
 
 
 ### 0300 Mitglieder
