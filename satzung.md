@@ -7,15 +7,16 @@ Satzung
 1. Der Operator =: beziehungsweise := definiere verwendete Abkürzungen, wobei der Doppelpunkt ":" auf der Seite der Abkürzung stehe.
 1. Die Reihenfolge der Überschriften, Paragraphen, Punkte oder Sätze ist flexibel so definiert, dass spätere Einfügung ohne Verschiebung dieser untereinander weitestgehend möglich ist, wodurch die konsistente Referenzierung zeitunabhängig vereinfacht wird.
 1. Pull request: Antrag auf Wieder-Einmischung von gemachten Änderungen nach Gabelung eines Projekts unter Versionskontrolle.
-
+1. public domain := gemeinfrei
+1. open source := quelloffen; nachhaltig, reparabel, daher ökologisch; public domain; freier unabhängiger gesamtweltlicher gemeinsam entwickelter Wissensstand.
 
 
 ### 0100 Name, Sitz, Eintragung, Geschäftsjahr, Gemeinnützigkeit
 
 1. Der Verein führt den Namen "worlddevelopment".
 1. Der Verein hat seinen Sitz in dem Landkreis Ostallgäu, 86983 Lechbruck, Kirchweg 3.
-1. Der Verein soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V.".
-1. Der Verein ist politisch, ethnisch und konfessionell neutral, obliegt keiner Abhängigkeit zu Einzelnen oder Gruppierungen - auch nach Spendenentgegennahme oder anderer erhaltener Leistungen -, sondern gehört der Welt im Ganzen als verantwortungsbewusster, mündiger, aufgeklärter juristischer Weltbürger an.
+1. Der Verein soll in das Vereinsregister eingetragen werden sobald die Gemeinnützigkeit von unentgeltlicher open source Entwicklung anerkannt ist und trägt dann den Zusatz "e.V.".
+1. Der Verein ist politisch, ethnisch und konfessionell neutral, obliegt keiner Abhängigkeit zu Einzelnen oder Gruppierungen - auch nach Spendenentgegennahme oder anderer erhaltener Leistungen, sondern gehört - alsbald eingetragen ins Vereinsregister - der Welt im Ganzen als verantwortungsbewusster, mündiger, aufgeklärter juristischer Weltbürger an.
 1. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung §§ 51 folgende.
@@ -338,7 +339,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 
-Die vorstehende Satzung wurde in der Gründungsversammlung (Mitgliederversammlung) vom 30. Juli 2016 erstmals errichtet.
+Die vorstehende Satzung wurde in der Gründungsversammlung (Mitgliederversammlung) vom __________________ erstmals errichtet.
 
 
 
