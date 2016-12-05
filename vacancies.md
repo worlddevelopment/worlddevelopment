@@ -43,5 +43,10 @@ Rewards:
 * Freedom of schedule, flexible working time
 * Freedom of location for work
 
-
+Activities:
+* Develop a virtual time machine (e.g. model, texture, animate, imagine).
+* Develop a fantasy world (e.g. model, texture, animate, imagine, decorate, think and help decorate landscapes, trees and more).
+* Research history.
+* Imagine future.
+* Creation of a network to keep lovely beings safe (defensive).
 
