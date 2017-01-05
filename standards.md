@@ -3,7 +3,7 @@ Development standards
 
 Why standards
 ---
-A multifaceted development of such large scale and so many different technologies, software and hardware modules all interacting and depending on each other requires solutions to tough problems like verdicts against single source principle and thus information redundancy that is easy to diverge easily which leads to conflicts as to know which is the most recent version.
+A multifaceted development of such large scale and so many different technologies, software and hardware modules all interacting and depending on each other requires solutions to tough problems like dependency entropy, modularity verdicts against single source principle and thus information redundancy that is easy to diverge easily which leads to conflicts as to know which is the most recent version and which version works with what other version.
 
 When imagining this happening thousands of times, the tremendous scale of the problem becomes apparent.
 
@@ -18,6 +18,10 @@ Adhering to the following standards partly or entirely fixes most development is
 
 
 ###Global
+
+* Use version control for development files.
+
+* [Use a cross platform package/dependency manager for modularity and releases.](http://wiki.opensourceecology.de/0install)
 
 * [Every part its own `<part>`.blend grouped, instanced as "Group" => Fulfill single source principle, Automate dependency, URI reference handling](https://github.com/faerietree/multimachine_lightspeed_precise/issues/1)
 
