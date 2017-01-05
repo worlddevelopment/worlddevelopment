@@ -11,8 +11,7 @@ Current focus/effort for the fulfillment of an excerpt of the worlddevelopment g
   * 1%, <a href="https://github.com/worlddevelopment/universal_automata">Universal automata</a>
 
 * Increase living standards:
-  * 45%, <a href="https://github.com/worlddevelopment/electricity_from_stream">Electricity from stream</a>.
-  * 20%, <a href="https://github.com/worlddevelopment/electricity_from_airflow">Electricity from wind</a>.
+  * 10%, <a href="https://github.com/worlddevelopment/base_living_standard">Base living standard</a>.
 
 * Increase education:
   * 90%: Teacher project (portable online, offline exercise, sheet, exam and reference solution sharing system),
