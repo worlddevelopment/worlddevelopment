@@ -9,6 +9,7 @@ Current focus/effort for the fulfillment of an excerpt of the worlddevelopment g
 
 * Universal technology (pivot), universally trainable:
   * 1%, <a href="https://github.com/worlddevelopment/universal_automata">Universal automata</a>
+  * 2%, <a href="https://github.com/worlddevelopment/linkable_operationing_system">Linkable operationing system.</a> (Progress made: Truck concept settled. First task to solve for the system will be forest work.)
 
 * Increase living standards:
   * 10%, <a href="https://github.com/worlddevelopment/base_living_standard">Base living standard</a>.
