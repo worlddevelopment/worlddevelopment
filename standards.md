@@ -26,6 +26,7 @@ Adhering to the following standards partly or entirely fixes most development is
 * [Every part its own `<part>`.blend grouped, instanced as "Group" => Fulfill single source principle, Automate dependency, URI reference handling](https://github.com/faerietree/multimachine_lightspeed_precise/issues/1)
 
 * [Only stable parameters like e.g. dimensions, IDs in URI / file names. Prevent price, URL, ...](https://github.com/faerietree/gears_maedler/issues/1)
+  * For fasteners see ISO standards 225, 888.
 
 * [Give values in SI units and omit the unit](https://github.com/faerietree/universal_prototyping_kit/issues/4)
 
