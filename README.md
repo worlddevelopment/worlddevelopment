@@ -74,8 +74,8 @@ About world development tools/toolchains:
 ---
 Contrary to the contents of many repositories, the tools, toolchains, ... that world development uses or develops, at times neither releases/binaries, nor development files/machines/sources are provided.
 
-This to not only promote open source (by optionally giving the tool/toolchain development files/machines/sources away for finished and published open source projects), but to prevent all actions
-like abuse of these tools/toolchains either through commercialisation through third-parties that not feel connected to worldevelopment goals.
+This serves to guarantee ethical actions.
+Abuse of these tools/toolchains hy third parties, like commercialization or directly or indirectly for harming peaceful beings must be prevented.
 
-Free, not open source, tools are tolerated/may be used for world development if compatible to worlddevelopment goals.
+Free not open source tools are tolerated/may be used for world development if compatible to worlddevelopment goals. The decision is up to the club board.
 
