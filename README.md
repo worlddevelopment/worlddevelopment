@@ -65,13 +65,10 @@ for legal reasons if a more permissive license other than the above default is d
 
 
 #### Explanation (for more information check the license wording / public domain legal definition of the corresponding country)
+*Attribution* means that links to the creators have to be provided properly visible.
+
 *Share-alike* means that e.g. built-upon sources must be provided at latest on release.
 
-*Non-commercial* doesn't mean that e.g. poor areas, where e.g. ecological energy technology is constructed, aren't allowed to refund material + installation + travel cost or similar as well as is not meant that charging for services (like customization as long as sharing or helping with maintenance while still pointing people to the sources that provide manuals) is not allowed.
-
-Instead it means that no profit margin must be added to the project. This and the rest is handled by ethics, virtues and values. Thus no-one hopefully has to starve, gets in trouble, enslaved or into negative attitude or anti-human-rights networks.
-
-Non-commercial thus means that neither the device / thing itself nor the development effort thereof must be charged for directly.
 
 About world development tools/toolchains:
 ---
