@@ -27,6 +27,6 @@ Current focus/effort for the fulfillment of an excerpt of the worlddevelopment g
   * 1%, interconnectable engineering toolbox, still need to evaluate Octave - or how quickly OpenFOAM source code can be studied to add all the missing math there. Refs #1.
 
 
-###Approximated completeness
+### Approximated completeness
 indicated in percent.
 For the most up to date progress the corresponding Release tab of the corresponding public git repository on Github may be inspected.

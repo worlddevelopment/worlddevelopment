@@ -17,7 +17,7 @@ This guarantees that a significant amount of heartily open source or wonderful a
 *(Nevertheless it is not labelled `dream job` because that depends: it may also be out of uber propel, i.e. wanting to be useful and help make the world an epic place without this process necessarily being perceived as fun. e.g. for many developers of technology -- despite our attitude towards simple, straight forward solutions -- it is just a nasty (non-natural), labor intense, tedious means to create an epic world. So the result can be great, but the way often is stony. Candidatures should be aware of that crushing fact.)*
 
 
-###Requirements:
+### Requirements:
 * Open source contributions to a degree that interest in the overall world's welfare or the welfare of the lovely beings is guarantueed
 * Membership in the open source / transparent club (1 euro / year)
 

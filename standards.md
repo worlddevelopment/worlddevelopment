@@ -17,7 +17,7 @@ The standards
 Adhering to the following standards partly or entirely fixes most development issues, therefore ensures automatic, consistent, consequent development without data entropy getting out of control:
 
 
-###Global
+### Global
 
 * Use version control for development files.
 
@@ -37,7 +37,7 @@ Adhering to the following standards partly or entirely fixes most development is
 * [Reasons for why to depend on an existing part instead of generating it for every project.](https://github.com/worlddevelopment/worlddevelopment/issues/3)
 
 
-###Project internal
+### Project internal
 1. Group group instances that are linked.
 **=>** Allows exchanging a part by another internal, linked part by redefining which objects are in the group.
 

@@ -241,7 +241,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-###1300 Aufstellung von Wahlbewerbern
+### 1300 Aufstellung von Wahlbewerbern
 1. Bewerber für Wahlen werden geheim nach Bereiterklärung und Erbringung eines Bereitschaftsbeweises mittels mindestens im Ton festgehaltenem Bereitsschaftsvortrag gleichberechtigt gewählt.
 
 1. Um Vor- und Nachteilen, die durch verschiedene Verfassungs-, Stimmungslagen des Vorträgers und des Publikums zu Beginn, gegen Ende und dazwischen, entstehen können, entgegen zu wirken, wird die Reihenfolge von Vorträgen ausgelost.
@@ -251,12 +251,12 @@ e) bei juristischen Personen durch deren Auflösung.
 
 
 
-###1400 Bereitschaftserklärung
+### 1400 Bereitschaftserklärung
 Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen des Vereins erklärt.
 
 
 
-###1500 Bereitschaftsbeweis
+### 1500 Bereitschaftsbeweis
 1. Mittels innerhalb einer Gesamtzeit von 60 Minuten abgehaltenem 30 minütigem Vortrag, 20 Minuten Fragen, 10 Minuten Bereitschaftszustimmungs-Wahl (ja, Enthaltung), nahtlos an vorigen Vortrag angereiht und pünktlich beendet, andernfalls abrupter Abbruch.
 
 1. Vorträge können nicht ausschließlich virtuell sein, müssen also physisch und persönlich unter hinreichend Publikum (Zeugen- und Rechtmäßigkeitsfunktion) gehalten werden.
