@@ -28,6 +28,10 @@ Adhering to the following standards partly or entirely fixes most development is
 * [Only stable parameters like e.g. dimensions, IDs in URI / file names. Prevent price, URL, ...](https://github.com/faerietree/gears_maedler/issues/1)
   * For fasteners see ISO standards 225, 888.
 
+* Outsource volatile parameters like price to separate empty file's name in the vendor repository ([example](https://github.com/faerietree/parts_eisen-fendt)).
+
+* Share common parameters (`single source principle`) like e.g. when price of metal beams is per Kg and equal for all beams or when there is a standard then use [parameters repo](https://github.com/worlddevelopment/parameters).
+
 * [Give values in SI units and omit the unit](https://github.com/faerietree/universal_prototyping_kit/issues/4)
 
 * [Reference at least one real world part in the URI / file name. Keep it at the end directly before the ending.](https://github.com/faerietree/universal_prototyping_kit/issues/5)
@@ -35,6 +39,8 @@ Adhering to the following standards partly or entirely fixes most development is
 * [Use basic KB template for `<part>`.blend](https://github.com/faerietree/universal_prototyping_kit/issues/6)
 
 * [Reasons for why to depend on an existing part instead of generating it for every project.](https://github.com/worlddevelopment/worlddevelopment/issues/3)
+
+
 
 
 ### Project internal
