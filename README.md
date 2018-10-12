@@ -1,4 +1,4 @@
-World development efforts to actively drive for a better world.
+World development efforts to actively head for a better world.
 ===
 
 <img src="./worlddevelopment.png" align="left" alt=""/>
