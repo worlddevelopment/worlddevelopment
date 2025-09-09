@@ -6,9 +6,9 @@ Satzung
 1. Der englische Begriff "worlddevelopment" sei in nachstehendem Text gleichermaßen wie das deutsche Substantiv "Weltentwicklung" verwendet. Da die Aktivitäten des Vereins nicht auf eine Gruppenzugehörigkeit beschränkt ist, wird der englische Begriff verwendet, da Englisch-Kenntnis zum Zeitpunkt der Gründung den Größtteil der Weltbevölkerung umfasst.
 1. Der Operator =: beziehungsweise := definiere verwendete Abkürzungen, wobei der Doppelpunkt ":" auf der Seite der Abkürzung stehe.
 1. Die Reihenfolge der Überschriften, Paragraphen, Punkte oder Sätze ist flexibel so definiert, dass spätere Einfügung ohne Verschiebung dieser untereinander weitestgehend möglich ist, wodurch die konsistente Referenzierung zeitunabhängig vereinfacht wird.
-1. Pull request: Antrag auf Wieder-Einmischung von gemachten Änderungen nach Gabelung eines Projekts unter Versionskontrolle.
-1. public domain := gemeinfrei
-1. open source := quelloffen; nachhaltig, reparabel, daher ökologisch; public domain; freier unabhängiger gesamtweltlicher gemeinsam entwickelter Wissensstand.
+1. Merge request := Antrag auf Wieder-Ein-Mischen von gemachten Änderungen nach Gabelung eines Projekts unter Versionskontrolle.
+1. Public domain := gemeinfrei
+1. Open source := quelloffen; nachhaltig, reparabel, daher ökologisch; public domain; freier unabhängiger gesamtweltlicher gemeinsam entwickelter Wissensstand.
 
 
 ### 0100 Name, Sitz, Eintragung, Geschäftsjahr, Gemeinnützigkeit
