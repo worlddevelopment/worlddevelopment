@@ -15,11 +15,12 @@ Satzung
 
 1. Der Verein führt den Namen "worlddevelopment".
 1. Der Verein hat seinen Sitz in dem Landkreis Ostallgäu, 86983 Lechbruck, Kirchweg 3.
-1. Der Verein soll in das Vereinsregister eingetragen werden sobald die Gemeinnützigkeit von unentgeltlicher open source Entwicklung anerkannt ist und sicher ist, dass Einkommen aus Vermögensverwaltung, wirtschaftlichem Betrieb nicht signifikant und trägt dann den Zusatz "e.V.".
+1. Der Verein soll optional in das Vereinsregister eingetragen werden sobald die Gemeinnützigkeit von unentgeltlicher open source Entwicklung anerkannt ist und sicher ist, dass Einkommen aus Vermögensverwaltung, wirtschaftlichem Betrieb nicht signifikant und trägt dann den Zusatz "e.V.".
 1. Der Verein ist politisch, ethnisch und konfessionell neutral, obliegt keiner Abhängigkeit zu Einzelnen oder Gruppierungen - auch nach Spendenentgegennahme oder anderer erhaltener Leistungen, sondern gehört - alsbald eingetragen ins Vereinsregister - der Welt im Ganzen als verantwortungsbewusster, mündiger, aufgeklärter juristischer Weltbürger an.
 1. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung §§ 51 folgende.
+1. Insofern der Verein nicht eingetragen ist, handelt es sich um einen Wirtschaftlichen Verein. Steuerlich ähnlich behandelt wie eine GbR, d.h. jedes Vorstands-Mitglied hat seine Steuer-Angelegenheiten separat zu regeln.
 
 
 
@@ -28,50 +29,53 @@ Satzung
 1. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Bildung und Erziehung, Kunst und Kultur, des Umwelt-, Landschafts- und Denkmalschutzes, der Friedenswahrung und Entwicklung der Welt im Ganzen.
 
 1. Der Satzungszweck wird verwirklicht insbesondere durch direkte Weltentwicklung (world development) oder Hilfe bei dergleichen (Englisch: "development aid"), insbesondere:
-    * Entwicklung von friedlichen, nützlichen, ethisch vertretbaren Maschinen.
-    * Verfügbarmachen von freien, open source Bauplänen der Maschinen, beispielsweise im weltweiten Netzwerk.
-    * Hilfe bei Beschaffung, Konstruktion und Verwendung der Maschinen, vor Ort oder aus der Ferne.
-    * Transparenter Beratung,
-    * Erbringen von nachvollziehbaren gemeinnützigen Dienstleistungen wie Werbung für Petitionen, Einsatz für Rechte und Werte.
-    * Entwicklung und Verbreitung von technischen Programmen, beispielsweise zur Vereinfachung des Lehrwesens oder der Erhöhung der Geschichtsbildung, um die Sensibilität gegenüber Friedensbewahrung zu erhöhen.
+    * Betriebs-Zweig-Gemeinschaften zu gegenseitigem, naturellem und gesellschaftlichem Nutzen z.B. Stall-Gemeinschaft zur konkurrenz-fähigen Milch-Produktion
+    * Entwicklung von friedlichen, nützlichen, ethisch vertretbaren Produkten wie Milch, Maschinen, Programmen oder Sicherheit.
+    * Zugang zu freien, open source Rezepten der Produkte, beispielsweise im weltweiten Netzwerk.
+    * Hilfe bei Beschaffung, Herstellung, Verwendung und Erhaltung der Produkte, vor Ort oder aus der Ferne.
+    * Erforschen und Erbringen gemeinnütziger Dienstleistungen wie Information über Petitionen, Einsatz für Rechte und Werte, Vereinfachung des Lehrwesens, Erhöhung der Geschichtsbildung und Friedensbewahrung.
     * Umweltpädagogische Veranstaltungen in der Zusammenarbeit mit Kindergärten, Schulen und anderen Bildungseinrichtungen.
-    * Ausstellungen
+    * Ausstellungen z.B. Kunst, Bildung, Historik, Fortschritt, Produkte
     * Erstellung von Internetpräsenzen
-    * Bereitstellen (Hosting) von Veröffentlichungen, Dateien auf unabhängigen, beispielsweise eigenen, verteilten Servern.
+    * Bereitstellen von Publikationen, Dateien auf unabhängigen, beispielsweise eigenen, verteilten Servern.
     * Veröffentlichungen (Bücher zum Tier-, Naturschutz, ...)
     * Konzeption regionaler Umweltprojekte
     * Öffentlichkeitsarbeit
     * Zusammenarbeit mit anderen Vereinen und Verbänden
-    * Förderung von quelloffener, nachhaltiger Ökonomie (=: open economy), einschließlich offener Buchhaltung, denn was hat man in der Zivilgesellschaft zu verbergen. Offene Buchhaltung beugt Spekulation vor.
+    * Förderung quelloffener nachhaltiger Ökonomie (=: open economy), offener Buchhaltung zur Transparenz in der Zivilgesellschaft
     * Förderung von nachhaltigen Ökosystemen.
-    * Mitwirkung in freier, unabhängiger Forschung und Entwicklung.
+    * Mitwirkung in freier, unabhängiger Forschung und Entwicklung sowie ethischer Produktion
     * Förderung eines gesamtheitlichen Wissenstands für die Welt, an dessen Fortentwicklung die Welt gemeinschaftlich arbeitet.
     * Einsatz für die Zivil- und Menschenrechte, beispielsweise Rechte und Schutz von Frau und Kind in der Welt.
     * Entwicklung von verteilten Grundversorgungssystemen.
     * Entwicklung von ökologischen Grundversorgungssystemen.
-    * Erhöhung des globalen Lebensstandards durch Zusammenwirken allen Engagements, aller Entwicklungen, Förderungen, Sammlungen, Lehren.
+    * Erhöhung des globalen Lebensstandards durch Zusammenwirken allen Engagements, aller Entwicklungen, Produkt-Kreisläufe, Förderungen, Sammlungen, Lehren.
     * Förderung von Aktionen, die sich - von einer gesamtweltlichen Perspektive aus analysiert - positiv, weitsichtig, weltoffen kennzeichnen.
 
 1. Der Verein verwirklicht den Satzungszweck auch durch die Beschaffung von Mitteln für eigene oder andere frei verfügbare open source Projekte, insofern diese zur Verwirklichung des Vereinszwecks verhelfen. Als Beispiel sei die Vermarktung von lokal erzeugten Gütern wie Milch, Gemüse und Verarbeitungsprodukte aus diesen genannt.
 
-1. Dem Verein obliegt die Freiheit durch Erbringen von Dienstleistungen (Englisch: "services") mittels angemeldetem Gewerbe, beispielsweise die ökologische Entfernung von an gewissen Stellen ungewollten Pflanzen (=: Unkraut) oder die Heilung von Tier, Pflanze, oder Reparatur von Computern und anderen Maschinen, die Finanzlage zur Erfüllung der genannten Ziele aufzubessern sowie die an den erbrachten Services teilnehmenden Mitglieder oder Nicht-Mitglieder angemessen, also anteilmäßig, zu entlohnen, wobei dem Verein im Mindesten der gleiche Teil zusteht wie dem am meisten teilgenommenen Mitglied zugewendet wird (ersichtlich, nachvollziehbar aus der obligatorischen offenen Buchhaltung); letztgenannte Regelung soll dem Anwerben von Attrappen-, Scheinhelfern zur Reduzierung des Vereinsanteils entgegenwirken, wobei genauere Regelungen in einer separaten vereinszweck-konformen Schrift, der durch die Vorstandschaft festgelegten Gewerbeordnung, festgelegt werden können.
+1. Dem Verein obliegt die Freiheit durch Erbringen von Dienstleistungen (Englisch: "services") mittels angemeldetem Gewerbe, beispielsweise die ökologische Entfernung von an gewissen Stellen ungewollten Pflanzen (=: Beikraut) oder die Heilung von Tier, Pflanze, oder Reparatur von Computern und anderen Maschinen, die Finanzlage zur Erfüllung der genannten Ziele aufzubessern sowie die an den erbrachten Services teilnehmenden Mitglieder oder Nicht-Mitglieder angemessen, also anteilmäßig, zu entlohnen, wobei dem Verein im Mindesten der gleiche Teil zusteht wie dem am meisten teilgenommenen Mitglied zugewendet wird (ersichtlich, nachvollziehbar aus der obligatorischen offenen Buchhaltung); letztgenannte Regelung soll dem Anwerben von Attrappen-, Scheinhelfern zur Reduzierung des Vereinsanteils entgegenwirken, wobei genauere Regelungen in einer separaten vereinszweck-konformen Schrift, der durch die Vorstandschaft festgelegten Gewerbeordnung, festgelegt werden können.
 
-1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. D.h. keine Gewinn-Maximierung, aber Selbst-Erhalt.
 
-1. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
+1. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden sowie reinvestiert (einschliesslich Schaffung gut entlohnter Jobs) oder gemeinnützig gespendet.
 
 1. Die Mitglieder erhalten in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins.
 
-1. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+1. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. Faktor 1.
 
 1. Die Mitglieder des Vorstands können für ihren Arbeits- oder Zeitaufwand pauschale oder aufwandsbezogene Vergütungen erhalten, zum Beispiel die gesetzlich zulässige Ehrenamtspauschale per Jahr, wobei der Umfang der Vergütungen nicht unangemessen hoch sein darf, also den Aufwand nicht überschreiten darf.
 1. Maßstab der Angemessenheit von Vergütungen und Aufwandsentschädigungen ist die gemeinnützige Zielsetzung des Vereins.
 1. Vergütungen, Aufwandsentschädigungen sind automatisch auszusetzen, sollte der Verein keine positive Bilanz erzielen, so dass der Verein sich durch einen rein ehrenamtlichen Charakter in Notsituationen selbst heile.
 
 
-### 0250 Welteinkommen, Umsätzen und Gewinne aus der Vermögensverwaltung, Wirtschaftsbetrieb
+### 0250 Welteinkommen, Umsätze und Gewinne aus der Vermögensverwaltung, Wirtschaftsbetrieb
 
 1. Welteinkommen, Umsätze und Gewinne aus Vermögensverwaltung sowie Wirtschaftsbetrieb des Vereins seien immer je nach Zweck und Gesetzeslage ordnungsgemäß zu versteuern.
+
+1. Fördermitglieder haben keinen Anteil. Ihre Investition in den Verein dient dem Guten Zweck sowie möglichst stabiler Wert-Erhaltung
+
+1. Jedes Mitglied erhält den Anteil der dem Teil entspricht, das in die Betriebs-Zweig-Gemeinschaft eingebracht wurde. Dies gilt für Infra-Struktur gleichermassen wie für variable Beiträge wie Milch, Maschinen oder Arbeits-Zeit
 
 
 ### 0300 Mitglieder
@@ -94,7 +98,7 @@ Satzung
 
 1. Mitglied des Vereins kann jede natürliche oder juristische Person werden, die die Ziele des Vereins unterstützt.
 1. Fördermitglied kann jede natürliche oder juristische Person werden, die den Verein bei der Erreichung seiner Ziele in jeder geeigneten Weise fördern will.
-1. Bei Bewerbung um aktive Mitgliedschaft muss stichhaltig ein nachhaltiger Beweggrund zur Hilfe der Welt im Ganzen hervorgehen, beispielsweise Nachweis der willigen Mitarbeit an frei verfügbaren open source Projekten oder anderweitig herzlich, überzeugter oder selbstloser Einsatz für die Allgemeinheit.
+1. Bei Bewerbung um aktive Mitgliedschaft muss stichhaltig ein nachhaltiger Beweggrund zur Hilfe der Welt im Ganzen hervorgehen, beispielsweise Nachweis der willigen Mitarbeit an frei verfügbaren open source Projekten, ethischen Sicherheits-Dienst, Landwirtschaft nach freundlichen Methoden, oder anderweitig herzlich, überzeugter oder selbstloser Einsatz für die Allgemeinheit.
 1. Dem Vorstand steht als Entscheidungshilfe frei, offene Gespräche mit Anwärter/innen der Mitgliedschaft zu führen.
 1. Über den schriftlichen Aufnahmeantrag entscheidet abschließend der Vorstand.
 1. Die Angabe einer gültigen elektronischen Mail-Adresse unter der der Anwärter direkt oder indirekt erreichbar ist, sei Pflicht.
@@ -113,18 +117,20 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Der freiwillige Austritt erfolgt durch schriftliche Erklärung gegenüber einem Mitglied des Vorstands oder dem Verein als juristischer Person selbst (maschinelle Entgegennahme mittels elektronischer, authentischer Übermittlung).
 
-1. Ein Mitglied kann durch Beschluss des Vorstands von der Mitgliederliste gestrichen werden, wenn es trotz zweimaliger Mahnung mit der Zahlung des Beitrags im Rückstand ist. Die Streichung ist dem Mitglied schriftlich mitzuteilen.
+1. Ein Mitglied kann durch Beschluss des Vorstands von der Mitgliederliste gestrichen werden, wenn es trotz zweimaliger Mahnung mit der Zahlung des Beitrags im Rückstand ist. Die Streichung ist dem Mitglied schriftlich mitzuteilen. Grundsatz Gleichberechtigung
 
 1. Ein Mitglied kann, wenn es gegen die Vereinsinteressen gröblich verstoßen hat, durch Beschluss der Mitgliederversammlung aus dem Verein ausgestoßen werden. Vor der Beschlussfassung ist dem Mitglied Gelegenheit zu geben, sich persönlich zu rechtfertigen. Eine etwaige schriftliche Stellungnahme des Betroffenen ist in der Mitgliederversammlung zu verlesen.
 
 
 
 ### 0600 Mitgliedsbeiträge
-1. Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.
+1. Von den Mitgliedern werden Beiträge erhoben. Höhe und Fälligkeit des Jahresbeitrags werden von der Mitgliederversammlung bestimmt.
 
-1. Bei Fehlen derartiger Bestimmungen betrage die Höhe 1 € pro Jahr und sei kompromissgemäß zur Mitte des Jahres am 1. Juli um 0:00 Uhr fällig.
+1. Bei Fehlen derartiger Bestimmungen betrage die Höhe pauschal 100 € / Jahr jedoch maximal 1000 L Humus in lokaler Währung.
 
-1. Bei Nicht-Erbringen der Mitgliedschaftsbeitragsgebühr ist der Status des Mitglieds automatisch gleich dem eines Nicht-Mitglieds.
+1. Der Beitrag sei kompromissgemäß zur Mitte des Jahres am 1. Juli um 0 Uhr fällig.
+
+1. Bei Nicht-Erbringen ist der Status des Mitglieds automatisch gleich dem eines Nicht-Mitglieds.
 
 
 
@@ -135,13 +141,13 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Diskurs, philosphisches Fragen und daher folglich die bestmögliche Vernunft zu einem Wissensstand bestimmen Beschlüsse.
 
-1. Beschlüsse müssen gemeinschaftlich getragen werden (Mehrheit aller Mitglieder).
+1. Beschlüsse müssen gemeinschaftlich getragen werden (Mehrheit aller Mitglieder). Grundsatz Selbstbestimmung
 
 
 
 ### 0800 Der Vorstand
 1. Dem Vorstand obliegt die Führung der laufenden Geschäfte.
-1. Er hat insbesondere die Aufgabe bei allen Aktionen der aktiven Mitglieder mit Rat und Tat zu helfen.
+1. Er hat nicht die Aufgabe bei allen Aktionen der aktiven Mitglieder mit Rat oder Tat zu helfen. Grundsatz Verteiltes System
 1. Er hat für das Erreichen der Ziele des Vereins in erster Linie zu sorgen, was jedoch nicht notwendigerweise bedeutet, dass es der Hauptverdienst des Vorstands war, falls Ziele erreicht werden.
 
 1. Der Vorstand im Sinne des § 26 Bürgerliches Gesetzbuch (=: BGB) besteht aus den folgenden Funktionen, wobei stets jedes Vorstandsmitglied gleichwertig sei:
@@ -152,7 +158,7 @@ e) bei juristischen Personen durch deren Auflösung.
   * Mitgliedschaftsbeauftragter "Tribun" (Überblick Mitglieder, Mitgliedschaften in anderen gemeinnützigen Organisationen, (Hilfs-)Aktionen in durch Dritte organisiertem Engagement, ...)
   * Schriftgelehrter "Literat" (Überblick Dokumentation, Versionierung, Dokumente, Versammlungen, ...)
 
-  * Weiter nach geopolitischen Kontinenten unterteilten Zuständigkeiten:
+  * Weiter nach geopolitischen Kontinenten unterteilten Zuständigkeiten ohne Wertung oder Spaltung, sondern schlicht aus kontinenal-pragmatischen Gründen z.B. Reise, Kommunikation:
     * Aussenbeauftragter "Antarktika"
     * Aussenbeauftragter "Afrika"
     * Aussenbeauftragter "Asien"
@@ -170,6 +176,13 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Der Verein wird gerichtlich und außergerichtlich jeweils durch mindestens ein Mitglied, jedoch bevorzugt zwei oder mehr Mitglieder, des Vorstands gemeinschaftlich vertreten.
 
 1. Die Vereinigung mehrerer Vorstandsämter in einer Person (Personalunion) ist unzulässig.
+
+1. Der Vorstand beschäftigt Mitarbeiter, die auch zeitgleich Mitglied sein können:
+  * Geheim-Halter "Secretarius" (Verwaltung; Schutz personen-bezogener sensibler Daten; ethischen Grundsätzen mehr verpflichtet als dem Vorstand)
+  * Land-Helfer "Colonus" (Natur-Schutz, Pflege und Ernte nach ethischen Grundsätzen)
+  * Schutz-Kraft "Praetor" (Schutz von Organismus, Leib und Seele aller und allem Bedürftigen nach ethischen Grundsätzen)
+
+
 
 
 
@@ -198,8 +211,8 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Die Mitgliederversammlung ist mindestens alle zwei Jahre virtuell oder physisch abzuhalten.
 1. Über die nächste Zusammenkunft kann aus Optionen abgestimmt werden. Falls dies nicht geschieht ist der Termin der 30. Juni des jeweiligen Jahres, denn Jahresende und Anfang sind meist bereits ausgefüllt - weiter ist ein physischer Versammlungsort im Winter schwierig oder nur kostenintensiv zu organisieren.
 1. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 10% der Vereinsmitglieder schriftlich und unter Angabe des Zweckes und der Gründe verlangt wird.
-1. Alle Kosten der Anreisenden müssen persönlich (ehrenamtlich) getragen werden.
-1. Die Bekanntmachung des Entwurfs einer Tagesordnung und optional eine Einladungserinnerung sowie alle anderen organisatorischen Schriebe können auf elektronischem Wege beispielsweise mittels elektronischer Mail oder Veröffentlichung im Computer Netzwerk "Internet"/"Outernet"/... erfolgen.
+1. Alle Kosten der Teilnehmenden müssen persönlich getragen werden.
+1. Die Bekanntmachung des Entwurfs einer Tagesordnung und optional eine Einladungserinnerung sowie alle anderen organisatorischen Schriebe können auf elektronischem Wege beispielsweise mittels elektronischer Mail oder Veröffentlichung im öffentlichen oder internen Netz erfolgen.
 1. Ein Einladungsschreiben gilt als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene virtuelle oder physische Adresse gerichtet ist.
 
 1. Beschlüsse können auch schriftlich gefasst werden. Dazu wird die Beschlussvorlage allen Mitgliedern per Post, per elektronischer Mail oder auf geeigneter Internetseite mit einer Frist von 14 Tagen zur Stimmabgabe vorgelegt.
