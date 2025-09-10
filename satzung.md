@@ -20,7 +20,7 @@ Satzung
 1. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung §§ 51 folgende.
-1. Insofern der Verein nicht eingetragen ist, handelt es sich um einen Wirtschaftlichen Verein. Steuerlich ähnlich behandelt wie eine GbR, d.h. jedes Vorstands-Mitglied hat seine Steuer-Angelegenheiten separat zu regeln.
+1. Bis zur Eintragung handelt es sich um einen Wirtschaftlichen Verein, der nicht auf Maximierung von Gewinn sondern Allgemeinwohl ausgelegt ist. Steuerlich ähnlich behandelt wie eine GbR, d.h. jedes aktive Mitglied regelt Steuer-Angelegenheiten separat.
 
 
 
@@ -69,13 +69,11 @@ Satzung
 1. Vergütungen, Aufwandsentschädigungen sind automatisch auszusetzen, sollte der Verein keine positive Bilanz erzielen, so dass der Verein sich durch einen rein ehrenamtlichen Charakter in Notsituationen selbst heile.
 
 
-### 0250 Welteinkommen, Umsätze und Gewinne aus der Vermögensverwaltung, Wirtschaftsbetrieb
-
 1. Welteinkommen, Umsätze und Gewinne aus Vermögensverwaltung sowie Wirtschaftsbetrieb des Vereins seien immer je nach Zweck und Gesetzeslage ordnungsgemäß zu versteuern.
 
-1. Fördermitglieder haben keinen Anteil. Ihre Investition in den Verein dient dem Guten Zweck sowie möglichst stabiler Wert-Erhaltung
+1. Jedes Mitglied erhält den Anteil am Erlös der dem Teil entspricht, das in die Betriebs-Zweig- oder sonstige Gemeinschaft eingebracht wurde. Dies gilt für Infra-Struktur gleichermassen wie für variable Beiträge wie beispielsweise Milch, Maschinen oder Arbeits-Zeit
 
-1. Jedes Mitglied erhält den Anteil der dem Teil entspricht, das in die Betriebs-Zweig-Gemeinschaft eingebracht wurde. Dies gilt für Infra-Struktur gleichermassen wie für variable Beiträge wie Milch, Maschinen oder Arbeits-Zeit
+1. Fördermitglieder haben keinen Anteil. Ihre Investition in den Verein dient dem Guten Zweck sowie möglichst stabiler Wert-Erhaltung ihres eingebrachten Kapitals
 
 
 ### 0300 Mitglieder
@@ -83,8 +81,9 @@ Satzung
 1. Der Verein hat folgende Mitglieder:
   * aktive Mitglieder
   * Fördermitglieder
-1. Alle Mitglieder haben ein Stimmrecht.
+1. Nur aktive Mitglieder haben ein Stimmrecht.
 1. Nur aktive Mitglieder können in Vereinsämter gewählt werden.
+1. Förder-Mitglieder haben ein gesamtheitliches Veto-Recht bei Mutation des Vereins-Zwecks, wenn die Mehrheit der Förder-Mitglieder die Änderung ablehnt.
 
 1. Die Fördermitgliedschaft richtet sich in der Höhe des Beitrags, der größer als der gültige Mitgliedschaftsbeitrag zur Zeit des Beitrittsantrags sein muss, nach dem Wunsch der Fördermitglieder.
 
@@ -96,7 +95,7 @@ Satzung
 
 ### 0400 Erwerb der Mitgliedschaft
 
-1. Mitglied des Vereins kann jede natürliche oder juristische Person werden, die die Ziele des Vereins unterstützt.
+1. Mitglied des Vereins kann jede natürliche oder juristische Person werden, die die Ziele des Vereins mit Zeit und Geist oder Körper unterstützt. Teilhabe am Mantel-Betrieb ist Pflicht, andernfalls ist die Mitgliedschaft automatisch eine Förder-Mitgliedschaft. Teilnahme kann in Form Einbringung eines Teil-Betriebs, Land oder Maschinen sowie Leistung von Arbeit sein d.h. wer vom Verein angestellt ist, erhält automatisch das Stimm-Recht.
 1. Fördermitglied kann jede natürliche oder juristische Person werden, die den Verein bei der Erreichung seiner Ziele in jeder geeigneten Weise fördern will.
 1. Bei Bewerbung um aktive Mitgliedschaft muss stichhaltig ein nachhaltiger Beweggrund zur Hilfe der Welt im Ganzen hervorgehen, beispielsweise Nachweis der willigen Mitarbeit an frei verfügbaren open source Projekten, ethischen Sicherheits-Dienst, Landwirtschaft nach freundlichen Methoden, oder anderweitig herzlich, überzeugter oder selbstloser Einsatz für die Allgemeinheit.
 1. Dem Vorstand steht als Entscheidungshilfe frei, offene Gespräche mit Anwärter/innen der Mitgliedschaft zu führen.
@@ -119,7 +118,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Ein Mitglied kann durch Beschluss des Vorstands von der Mitgliederliste gestrichen werden, wenn es trotz zweimaliger Mahnung mit der Zahlung des Beitrags im Rückstand ist. Die Streichung ist dem Mitglied schriftlich mitzuteilen. Grundsatz Gleichberechtigung
 
-1. Ein Mitglied kann, wenn es gegen die Vereinsinteressen gröblich verstoßen hat, durch Beschluss der Mitgliederversammlung aus dem Verein ausgestoßen werden. Vor der Beschlussfassung ist dem Mitglied Gelegenheit zu geben, sich persönlich zu rechtfertigen. Eine etwaige schriftliche Stellungnahme des Betroffenen ist in der Mitgliederversammlung zu verlesen.
+1. Ein Mitglied kann, wenn es gegen die Vereinsinteressen gröblich verstoßen hat, durch Beschluss der Mitgliederversammlung aus dem Verein ausgestoßen werden. Vor der Beschlussfassung ist dem Mitglied Gelegenheit zu geben, sich persönlich zu rechtfertigen.
 
 
 
@@ -151,33 +150,18 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Er hat für das Erreichen der Ziele des Vereins in erster Linie zu sorgen, was jedoch nicht notwendigerweise bedeutet, dass es der Hauptverdienst des Vorstands war, falls Ziele erreicht werden.
 
 1. Der Vorstand im Sinne des § 26 Bürgerliches Gesetzbuch (=: BGB) besteht aus den folgenden Funktionen, wobei stets jedes Vorstandsmitglied gleichwertig sei:
-  * Entwicklungshelfer "Consul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichkeitsarbeit, strategische Entwicklung des Vereins, ...)
-  * Entwicklungshelfer "Consul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichungsarbeit, strategische Entwicklung des Vereins, ...)
-
+  * Mindestens 2 Entwicklungshelfer "Consul" (Überblick Bilanzen, Spenden, Mitgliedschaftsbeiträge, Konten, Ausgaben, Ressourcen, Vermögen, Lager, Entwicklung, Projekte, Öffentlichkeitsarbeit, strategische Entwicklung des Vereins, ...)
 1. Der erweiterte, optionale Vorstand besteht aus:
   * Mitgliedschaftsbeauftragter "Tribun" (Überblick Mitglieder, Mitgliedschaften in anderen gemeinnützigen Organisationen, (Hilfs-)Aktionen in durch Dritte organisiertem Engagement, ...)
   * Schriftgelehrter "Literat" (Überblick Dokumentation, Versionierung, Dokumente, Versammlungen, ...)
-
-  * Weiter nach geopolitischen Kontinenten unterteilten Zuständigkeiten ohne Wertung oder Spaltung, sondern schlicht aus kontinenal-pragmatischen Gründen z.B. Reise, Kommunikation:
-    * Aussenbeauftragter "Antarktika"
-    * Aussenbeauftragter "Afrika"
-    * Aussenbeauftragter "Asien"
-    * Aussenbeauftragter "Australien und Ozeanien"
-    * Aussenbeauftragter "Europa"
-    * Aussenbeauftragter "Nord-Amerika"
-    * Aussenbeauftragter "Süd-Amerika"
-
-  Oder nach Himmelsrichtungen referenziert zum Breiten-, Längengrad 0, 0, wobei die Grenzregionen überlappend von allen Zuständigkeiten abzudecken seien:
-    * West
-    * Nord
-    * Ost
-    * Süd
+  * Optional nach geopolitischen Kontinenten unterteilten Zuständigkeiten ohne Wertung oder Spaltung, sondern schlicht aus kontinenal-pragmatischen Gründen z.B. Reise, Kommunikation. Bei Uneindeutigkeit alternativ nach Himmelsrichtungen referenziert zum Breiten-, Längengrad 0, 0
+  * Der optionale Teil des Vorstands dient der Mitglieder-Versammlung als Gegen-Gewicht zum automatischen Vorstand und hat gesamtheitlich ein Veto-Recht. Balance of Power
 
 1. Der Verein wird gerichtlich und außergerichtlich jeweils durch mindestens ein Mitglied, jedoch bevorzugt zwei oder mehr Mitglieder, des Vorstands gemeinschaftlich vertreten.
 
 1. Die Vereinigung mehrerer Vorstandsämter in einer Person (Personalunion) ist unzulässig.
 
-1. Der Vorstand beschäftigt Mitarbeiter, die auch zeitgleich Mitglied sein können:
+1. Der Vorstand beschäftigt Mitarbeiter, die dadurch automatisch Mitglied werden und das Stimm-Recht erhalten:
   * Geheim-Halter "Secretarius" (Verwaltung; Schutz personen-bezogener sensibler Daten; ethischen Grundsätzen mehr verpflichtet als dem Vorstand)
   * Land-Helfer "Colonus" (Natur-Schutz, Pflege und Ernte nach ethischen Grundsätzen)
   * Schutz-Kraft "Praetor" (Schutz von Organismus, Leib und Seele aller und allem Bedürftigen nach ethischen Grundsätzen)
@@ -188,11 +172,14 @@ e) bei juristischen Personen durch deren Auflösung.
 
 ### 0900 Amtsdauer des Vorstands
 
-1. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstands im Amt.
+1. Der erweiterte Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstands im Amt.
 
-1. Scheidet ein Mitglied des Vorstands während der Amtsperiode aus, so wählt der erweiterte Vorstand ein Ersatzmitglied. Falls der übrige Vorstand weniger als zwei Personen umfasst, so wählt eine automatisch einberufene Mitgliederversammlung ein Ersatzmitglied.
+1. Scheidet ein Mitglied des erweiterten Vorstands während der Amtsperiode aus, so wählt der verbliebene erweiterte Vorstand ein Ersatzmitglied. Falls weniger als 2 Personen verbleiben, so wählt eine automatisch einberufene Mitgliederversammlung ein Ersatzmitglied.
 
 1. Die Wiederwahl der Vorstandsmitglieder ist möglich.
+
+1. Jedes Mitglied, das an Betriebs-Zweig- oder sonstigen Gemeinschaften des Vereins teil nimmt und eine Betriebs-Nummer oder VAT-Id hat, ist automatisch im Vorstandsmitglied als Consul.
+
 
 
 
@@ -227,26 +214,28 @@ e) bei juristischen Personen durch deren Auflösung.
 1. Die Mitgliederversammlung ist insbesondere für folgende Angelegenheiten zuständig:
   * Entgegennahme des Jahresberichtes des Vorstands; Entlastung des Vorstands
   * Optional der Festsetzung einer spezifischen Höhe oder Fälligkeit des Jahresbeitrags
-  * Wahl und Abberufung der Mitglieder des Vorstands
-  * Auflösung des Vereins
+  * Wahl und Abberufung der Mitglieder des optionalen erweiterten Vorstands
+  * Auflösung des Vereins (Zwei-Drittel-Mehrheit notwendig)
   * Verschmelzung mit anderen juristischen Personen
   * Modifikation des Vereinszwecks (Einstimmigkeit notwendig)
-  * Änderung der Satzung
+  * Änderung der Satzung (Drei-Viertel-Mehrheit notwendig)
+  * Annahme von Anträgen (einfache Mehrheit notwendig)
   * Optional Schiedsgerichtsordnung.
 
 1. Beschlüsse werden mit einfacher Mehrheit mit Ausnahme von Satzungs-, Zweckänderungen und Auflösung des Vereins gefasst; bei Stimmengleichheit wird die Entscheidung über einen Antrag zeitlich verschoben.
 
-1. Mitgliederversammlungen sind öffentlich, die Versorgung mit Raum und Zeit sei aber vorrangig für Mitglieder reserviert.
+1. Mitgliederversammlungen sind öffentlich wenn der Verein eingetragen ist. Die Versorgung mit Raum und Zeit sei vorrangig für Mitglieder reserviert. Vertreter der Öffentlichkeit müssen ohne explizite Genehmigung leider von öffentlichem Boden aus der Ferne beobachten, also ausserhalb des Privat-Grunds. Bei Gegebenheit sind ausgewiesene Standorte einzuhalten
 
 
 
 ### 1200 Willensbildung in den Organen
-1. Jedes Mitglied hat eine Stimme.
+1. Jedes aktive Mitglied hat eine Stimme.
+1. Jedes aktive Mitglied kann diese Stimme physisch oder elektronisch via unsere transaktionskostenlose Währung J abgeben.
 
 1. Jedes Mitglied besitzt ein Antragsrecht, damit auch Minderheiten gleichberechtigt ihre Vorschläge zur Erörterung bringen können.
 1. Ein Antrag, über den entschieden werden soll, muss vor einer Versammlung bereits virtuell oder im Mindesten als Ton-Aufzeichnung öffentlich und kommentierbar verfügbar sein, um den Arbeitsaufwand zur Abarbeitung vieler Anträge zu reduzieren und sogleich Unklarheiten durch interaktives Fragen des Publikums oder durch das Publikum (also der anderen Mitglieder) zu erlauben.
 1. Gründe, Ziele und insbesondere die Änderungen, die ein Vorschlag mit sich bringt, sind im Antrag anzuführen, da ohne diese Information kein Verständnis des Vorschlags möglich ist.
-1. In der Versammlung wird der Antrag diskutiert, jedem sich meldenden Mitglied ist 3 Minuten Rede- oder Schreibzeit zu gewähren.
+1. In der Versammlung wird der Antrag diskutiert, jedem sich meldenden Mitglied ist 7 Minuten effektive Rede- oder Schreibzeit zu gewähren.
 1. Die Redezeit wird auf zwei Runden aufgeteilt, wobei die Reihenfolge jeweils neu ausgelost wird.
 1. Die Zeit kann neben einer klassischen physischen Meldung auch in einem online Chat mittels Programmfunktion oder einer entsprechenden Textnachricht gebucht werden.
 1. Es ist mindestens die einfache Mehrheit der anwesenden Mitgliederzahl nötig.
@@ -259,7 +248,7 @@ e) bei juristischen Personen durch deren Auflösung.
 
 1. Um Vor- und Nachteilen, die durch verschiedene Verfassungs-, Stimmungslagen des Vorträgers und des Publikums zu Beginn, gegen Ende und dazwischen, entstehen können, entgegen zu wirken, wird die Reihenfolge von Vorträgen ausgelost.
 1. Bei physischen Versammlungen ist ein Vortrag physisch, live zu halten, um Verfälschungen der Persönlichkeit durch Medienmanipulation zu unterbinden.
-1. Bei virtuellen Sitzungen muss darauf hingewiesen werden, dass eine Nachbearbeitung von Medien und Aufzeichnungen oder Modifikationen von übertragenen Daten nicht garantiert verhindert werden kann.
+1. Bei virtuellen Sitzungen muss darauf hingewiesen werden, dass eine Nachbearbeitung von Medien und Aufzeichnungen oder Modifikationen von übertragenen Daten nicht garantiert verhindert werden kann und Mitglieder stets mit anderen physisch teilnehmenden Mitgliedern abgleichen müssen, ob dies Tatsache stattfand.
 1. Bei der Aufstellung einer Liste, in der die Reihenfolge eine Rolle spielt, wird die Reihenfolge nach Bereitschaftserklärung und gelungenem Beweis (einfache Mehrheit der Ist-Bereit-Stimmen erhalten) ausgelost.
 
 
@@ -270,13 +259,13 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 
 ### 1500 Bereitschaftsbeweis
-1. Mittels innerhalb einer Gesamtzeit von 60 Minuten abgehaltenem 30 minütigem Vortrag, 20 Minuten Fragen, 10 Minuten Bereitschaftszustimmungs-Wahl (ja, Enthaltung), nahtlos an vorigen Vortrag angereiht und pünktlich beendet, andernfalls abrupter Abbruch.
+1. Mittels innerhalb einer Gesamtzeit von 60 Minuten abgehaltenem 30 minütigem Vortrag, 15 Minuten Fragen, 10 Minuten Bereitschaftszustimmungs-Wahl (ja, Enthaltung), 5 Minuten Übergangs-Zeit.
 
 1. Vorträge können nicht ausschließlich virtuell sein, müssen also physisch und persönlich unter hinreichend Publikum (Zeugen- und Rechtmäßigkeitsfunktion) gehalten werden.
 
 1. Vorträge müssen zur Dokumentation virtuell und öffentlich verfügbar sein (das heißt Ton und Bild aufgenommen werden und mindestens persönlich frei einsehbar sein).
 
-1. Es herrscht keine direkte Anwesenheitspflicht, da die Partei die Meinung vertritt, dass soweit möglich durch Beispiel/Vorbild und nicht durch Verpflichtung und Verbot geführt werden sollte.
+1. Es herrscht keine direkte Anwesenheitspflicht, da die Partei die Meinung vertritt, dass soweit möglich durch Beispiel/Vorbild und nicht durch Verpflichtung und Verbot geführt werden sollte. Jedem soll Flexibilität gewährt werden, insofern die Aufgaben hinreichend erfüllt werden.
 
 1. Da die Bereitschaft (und damit Charakter, Fähigkeit, Vision und Vorbereitetheit) für Amtsträger aufgrund der großen Verantwortung und der umfassenden Macht-, Auftritt- (Aura) und Einfluss auf Entscheidungen von großer Bedeutung ist, besteht indirekte Anwesenheitspflicht mittels Bereitschaftsstimmzahl-Konto.
 
@@ -292,8 +281,8 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 ### 1600 Zeit ("Redezeit"/Vortragszeit)
 1. Die Dauer des Vortrags muss weniger als 30min (inklusive Übergangszeit) betragen.
 
-1. Das Intervall Vortrag + Fragen muss > 30min, > Gesamtzeit / Bereitschaft gemeldete Mitgliederzahl
-<= Gesamtzeit / Mitgliederzahl
+1. Das Intervall Vortrag + Fragen muss > 30min und < Gesamtzeit / Kandidaten sein
+
 
 
 
@@ -305,7 +294,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 1. Eine vollständige Tagesordnung ist bei Beginn der Versammlung bekannt zu machen.
 1. Über die Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, beschließt die Mitgliederversammlung.
 1. Zur Annahme des Antrages ist eine Mehrheit von drei Viertel der abgegebenen gültigen Stimmen erforderlich.
-1. Satzungsänderungen, die Auflösung des Vereins sowie die Wahl und Abberufung von Vorstandsmitgliedern betreffen, können nur beschlossen werden, wenn die Anträge den Mitgliedern mit der Tagesordnung angekündigt worden sind.
+1. Satzungsänderungen, die Auflösung des Vereins sowie die Wahl und Abberufung von Vorstandsmitgliedern betreffen, können nur beschlossen werden, wenn die Anträge den Mitgliedern mit der Tagesordnung angekündigt wurden.
 
 
 
@@ -314,7 +303,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 1. Ordentliche Änderung erfordert mindestens einfache Mehrheit aller Mitglieder.
 1. Nach BGB §33 sind drei Viertel aller anwesenden Stimmen erforderlich. Beispiel: bei 3 Personen wären Dreiviertel gleich 2.25, mathematisch gerundet 2, jedoch ergibt sich 3 nach Aufrundung da *mindestens* drei Viertel gefordert sind; was im Fall von 3 Mitgliedern Einstimmigkeit bedeutet.
 
-1. Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt bereits in der Einladung (im Rahmen der satzungsmäßigen Frist) zur Mitgliederversammlung hingewiesen wurde und in der Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext oder im Mindesten die Änderungen mit ausreichend Kontext beigefügt oder auf die jeweiligen Dokumente hingewiesen oder verlinkt worden war.
+1. Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt bereits in der Einladung (im Rahmen der satzungsmäßigen Frist) zur Mitgliederversammlung hingewiesen wurde und in der Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext oder im Mindesten die Änderungen mit ausreichend Kontext beigefügt oder auf die jeweiligen Dokumente hingewiesen oder zugänglich verlinkt worden war.
 
 1. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen, wenn diese Modifikationen allen Vereinsmitgliedern sofort schriftlich mitgeteilt werden.
 
@@ -343,7 +332,7 @@ Bereitschaft wird beliebig im Rahmen der Ethik und im Einklang mit den Zielen de
 
 1. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden.
 
-1. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins im Rahmen des § 45 BGB an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es für weltweite Entwicklungshilfe, z.B. Bekämpfung der Unterdrückung der Frau, Kinderarmut, oder für das Lehren des Englischen, Lesens und Schreibens von Kindern in armen Regionen der Welt zu verwenden hat.
+1. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins im Rahmen des § 45 BGB an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, die es für weltweite Entwicklungshilfe, z.B. Bekämpfung der Unterdrückung der Frau, Kinderarmut, oder für das Lehren einer international gesprochenen Sprache, Lesen und Schreiben von Kindern für Lebewesen unter der Armuts-Grenze zu verwenden hat.
 
 
 
